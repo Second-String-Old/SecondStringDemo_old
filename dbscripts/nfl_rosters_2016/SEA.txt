@@ -1,0 +1,312 @@
+{
+	{
+ 		56,
+		Avril, Cliff,
+		DE
+ 	},
+	{
+ 		89,
+		Baldwin, Doug,
+		WR
+ 	},
+	{
+ 		95,
+		Barnes, Tavaris,
+		DE
+ 	},
+	{
+ 		72,
+		Bennett, Michael,
+		DE
+ 	},
+	{
+ 		2,
+		Boykin, Trevone,
+		QB
+ 	},
+	{
+ 		68,
+		Britt, Justin,
+		C
+ 	},
+	{
+ 		31,
+		Chancellor, Kam,
+		SS
+ 	},
+	{
+ 		55,
+		Clark, Frank,
+		DE
+ 	},
+	{
+ 		36,
+		Collins, Alex,
+		RB
+ 	},
+	{
+ 		42,
+		Cottom, Brandon,
+		TE
+ 	},
+	{
+ 		52,
+		Coyle, Brock,
+		OLB
+ 	},
+	{
+ 		21,
+		Elliott, DeAndre,
+		CB
+ 	},
+	{
+ 		74,
+		Fant, George,
+		OT
+ 	},
+	{
+ 		48,
+		Frese, Nolan,
+		LS
+ 	},
+	{
+ 		79,
+		Gilliam, Garry,
+		T
+ 	},
+	{
+ 		63,
+		Glowinski, Mark,
+		OG
+ 	},
+	{
+ 		88,
+		Graham, Jimmy,
+		TE
+ 	},
+	{
+ 		4,
+		Hauschka, Steven,
+		K
+ 	},
+	{
+ 		53,
+		Hunt, Joey,
+		C
+ 	},
+	{
+ 		76,
+		Ifedi, Germain,
+		OG
+ 	},
+	{
+ 		30,
+		Jean-Baptiste, Stanley,
+		CB
+ 	},
+	{
+ 		99,
+		Jefferson, Quinton,
+		DT
+ 	},
+	{
+ 		DT,
+		Kearse, Jermaine,
+		WR
+ 	},
+	{
+ 		20,
+		Lane, Jeremy,
+		CB
+ 	},
+	{
+ 		16,
+		Lockett, Tyler,
+		WR
+ 	},
+	{
+ 		38,
+		Madden, Tre,
+		RB
+ 	},
+	{
+ 		91,
+		Marsh, Cassius,
+		OLB
+ 	},
+	{
+ 		33,
+		McCray, Kelcie,
+		SS
+ 	},
+	{
+ 		93,
+		McDaniel, Tony,
+		DT
+ 	},
+	{
+ 		41,
+		McDonald, Dewey,
+		LB
+ 	},
+	{
+ 		19,
+		McEvoy, Tanner,
+		WR
+ 	},
+	{
+ 		97,
+		Moore, Damontre,
+		DE
+ 	},
+	{
+ 		57,
+		Morgan, Mike,
+		OLB
+ 	},
+	{
+ 		70,
+		Odhiambo, Rees,
+		OG
+ 	},
+	{
+ 		58,
+		Pierre-Louis, Kevin,
+		OLB
+ 	},
+	{
+ 		RB,
+		Powell, Tyvis,
+		FS
+ 	},
+	{
+ 		22,
+		Prosise, C.J.,
+		RB
+ 	},
+	{
+ 		34,
+		Rawls, Thomas,
+		RB
+ 	},
+	{
+ 		90,
+		Reed, Jarran,
+		DT
+ 	},
+	{
+ 		10,
+		Richardson, Paul,
+		WR
+ 	},
+	{
+ 		77,
+		Rubin, Ahtyba,
+		DT
+ 	},
+	{
+ 		9,
+		Ryan, Jon,
+		P
+ 	},
+	{
+ 		39,
+		Seisay, Mohammed,
+		DB
+ 	},
+	{
+ 		35,
+		Shead, DeShawn,
+		CB
+ 	},
+	{
+ 		25,
+		Sherman, Richard,
+		CB
+ 	},
+	{
+ 		87,
+		Shields, Ronnie,
+		TE
+ 	},
+	{
+ 		8,
+		Slavin, Tyler,
+		WR
+ 	},
+	{
+ 		98,
+		Smith, Garrison,
+		DT
+ 	},
+	{
+ 		40,
+		Sommers, Joe,
+		TE
+ 	},
+	{
+ 		78,
+		Sowell, Bradley,
+		OT
+ 	},
+	{
+ 		23,
+		Terrell, Steven,
+		FS
+ 	},
+	{
+ 		29,
+		Thomas, Earl,
+		FS
+ 	},
+	{
+ 		27,
+		Thorpe, Neiko,
+		DB
+ 	},
+	{
+ 		59,
+		Tripp, Jordan,
+		LB
+ 	},
+	{
+ 		46,
+		Tukuafu, Will,
+		FB
+ 	},
+	{
+ 		81,
+		Vannett, Nick,
+		TE
+ 	},
+	{
+ 		54,
+		Wagner, Bobby,
+		MLB
+ 	},
+	{
+ 		73,
+		Webb, J'Marcus,
+		OG
+ 	},
+	{
+ 		86,
+		Williams, Brandon,
+		TE
+ 	},
+	{
+ 		82,
+		Willson, Luke,
+		TE
+ 	},
+	{
+ 		3,
+		Wilson, Russell,
+		QB
+ 	},
+	{
+ 		50,
+		Wright, K.J.,
+		OLB
+ 	},
+}

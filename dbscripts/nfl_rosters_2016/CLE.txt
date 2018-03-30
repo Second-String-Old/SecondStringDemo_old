@@ -1,0 +1,332 @@
+{
+	{
+ 		54,
+		Alexander, Dominique,
+		ILB
+ 	},
+	{
+ 		25,
+		Atkinson, George,
+		RB
+ 	},
+	{
+ 		78,
+		Bailey, Alvin,
+		OG
+ 	},
+	{
+ 		82,
+		Barnidge, Gary,
+		TE
+ 	},
+	{
+ 		75,
+		Bitonio, Joel,
+		G
+ 	},
+	{
+ 		20,
+		Boddy-Calhoun, Briean,
+		CB
+ 	},
+	{
+ 		26,
+		Burley, Marcus,
+		DB
+ 	},
+	{
+ 		7,
+		Callahan, Joe,
+		QB
+ 	},
+	{
+ 		24,
+		Campbell, Ibraheim,
+		SS
+ 	},
+	{
+ 		59,
+		Carder, Tank,
+		ILB
+ 	},
+	{
+ 		72,
+		Coleman, Shon,
+		OT
+ 	},
+	{
+ 		19,
+		Coleman, Corey,
+		WR
+ 	},
+	{
+ 		51,
+		Collins, Jamie,
+		OLB
+ 	},
+	{
+ 		4,
+		Colquitt, Britton,
+		P
+ 	},
+	{
+ 		64,
+		Cooper, Jonathan,
+		OG
+ 	},
+	{
+ 		96,
+		Cooper, Xavier,
+		DE
+ 	},
+	{
+ 		34,
+		Crowell, Isaiah,
+		RB
+ 	},
+	{
+ 		56,
+		Davis, Demario,
+		ILB
+ 	},
+	{
+ 		87,
+		DeValve, Seth,
+		TE
+ 	},
+	{
+ 		66,
+		Drango, Spencer,
+		OG
+ 	},
+	{
+ 		74,
+		Erving, Cameron,
+		C
+ 	},
+	{
+ 		12,
+		Gordon, Josh,
+		WR
+ 	},
+	{
+ 		77,
+		Greco, John,
+		G
+ 	},
+	{
+ 		10,
+		Griffin III, Robert,
+		QB
+ 	},
+	{
+ 		23,
+		Haden, Joe,
+		CB
+ 	},
+	{
+ 		85,
+		Hall, Rannell,
+		WR
+ 	},
+	{
+ 		16,
+		Hawkins, Andrew,
+		WR
+ 	},
+	{
+ 		81,
+		Higgins, Rashard,
+		WR
+ 	},
+	{
+ 		8,
+		Hogan, Kevin,
+		QB
+ 	},
+	{
+ 		91,
+		Holmes, Tyrone,
+		DE
+ 	},
+	{
+ 		41,
+		Howard, Tracy,
+		FS
+ 	},
+	{
+ 		47,
+		Hughlett, Charley,
+		LS
+ 	},
+	{
+ 		60,
+		Ikard, Gabe,
+		C
+ 	},
+	{
+ 		57,
+		Johnson, Cam,
+		OLB
+ 	},
+	{
+ 		29,
+		Johnson, Duke,
+		RB
+ 	},
+	{
+ 		6,
+		Kessler, Cody,
+		QB
+ 	},
+	{
+ 		30,
+		Kindred, Derrick,
+		SS
+ 	},
+	{
+ 		58,
+		Kirksey, Christian,
+		ILB
+ 	},
+	{
+ 		70,
+		Lawrence-Stample, Nile,
+		DT
+ 	},
+	{
+ 		52,
+		Lemonier, Corey,
+		OLB
+ 	},
+	{
+ 		80,
+		Louis, Ricardo,
+		WR
+ 	},
+	{
+ 		13,
+		McCown, Josh,
+		QB
+ 	},
+	{
+ 		98,
+		Meder, Jamie,
+		DE
+ 	},
+	{
+ 		2,
+		Murray, Patrick,
+		K
+ 	},
+	{
+ 		94,
+		Nassib, Carl,
+		DE
+ 	},
+	{
+ 		34,
+		Neal, Rajion,
+		RB
+ 	},
+	{
+ 		90,
+		Ogbah, Emmanuel,
+		OLB
+ 	},
+	{
+ 		44,
+		Orchard, Nate,
+		OLB
+ 	},
+	{
+ 		99,
+		Paea, Stephen,
+		DT
+ 	},
+	{
+ 		3,
+		Parkey, Cody,
+		K
+ 	},
+	{
+ 		83,
+		Parks, Dennis,
+		WR
+ 	},
+	{
+ 		67,
+		Pasztor, Austin,
+		OT
+ 	},
+	{
+ 		84,
+		Payton, Jordan,
+		WR
+ 	},
+	{
+ 		33,
+		Poyer, Jordan,
+		FS
+ 	},
+	{
+ 		11,
+		Pryor, Terrelle,
+		WR
+ 	},
+	{
+ 		62,
+		Reiter, Austin,
+		C
+ 	},
+	{
+ 		30,
+		Reynolds, Ed,
+		SAF
+ 	},
+	{
+ 		53,
+		Schobert, Joe,
+		OLB
+ 	},
+	{
+ 		55,
+		Shelton, Danny,
+		NT
+ 	},
+	{
+ 		21,
+		Taylor, Jamar,
+		CB
+ 	},
+	{
+ 		86,
+		Telfer, Randall,
+		TE
+ 	},
+	{
+ 		73,
+		Thomas, Joe,
+		T
+ 	},
+	{
+ 		40,
+		Vitale, Dan,
+		RB
+ 	},
+	{
+ 		22,
+		Williams, Tramon,
+		CB
+ 	},
+	{
+ 		28,
+		Winston, Glenn,
+		RB
+ 	},
+	{
+ 		97,
+		Wynn, Dylan,
+		DT
+ 	},
+}

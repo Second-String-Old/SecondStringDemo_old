@@ -1,0 +1,297 @@
+{
+	{
+ 		23,
+		Alford, Robert,
+		CB
+ 	},
+	{
+ 		37,
+		Allen, Ricardo,
+		FS
+ 	},
+	{
+ 		95,
+		Babineaux, Jonathan,
+		NT
+ 	},
+	{
+ 		44,
+		Beasley, Vic,
+		OLB
+ 	},
+	{
+ 		5,
+		Bosher, Matt,
+		P
+ 	},
+	{
+ 		3,
+		Bryant, Matt,
+		K
+ 	},
+	{
+ 		59,
+		Campbell, De'Vondre,
+		OLB
+ 	},
+	{
+ 		65,
+		Chester, Chris,
+		OG
+ 	},
+	{
+ 		99,
+		Clayborn, Adrian,
+		DE
+ 	},
+	{
+ 		26,
+		Coleman, Tevin,
+		RB
+ 	},
+	{
+ 		32,
+		Collins, Jalen,
+		CB
+ 	},
+	{
+ 		76,
+		Compton, Tom,
+		OT
+ 	},
+	{
+ 		42,
+		DiMarco, Patrick,
+		FB
+ 	},
+	{
+ 		24,
+		Freeman, Devonta,
+		RB
+ 	},
+	{
+ 		93,
+		Freeney, Dwight,
+		DE
+ 	},
+	{
+ 		87,
+		Fuller, Devin,
+		WR
+ 	},
+	{
+ 		18,
+		Gabriel, Taylor,
+		WR
+ 	},
+	{
+ 		63,
+		Garland, Ben,
+		C
+ 	},
+	{
+ 		29,
+		Goodwin, C.J.,
+		CB
+ 	},
+	{
+ 		77,
+		Hageman, Ra'Shede,
+		DT
+ 	},
+	{
+ 		16,
+		Hardy, Justin,
+		WR
+ 	},
+	{
+ 		47,
+		Harris, Josh,
+		LS
+ 	},
+	{
+ 		81,
+		Hooper, Austin,
+		TE
+ 	},
+	{
+ 		36,
+		Ishmael, Kemal,
+		SS
+ 	},
+	{
+ 		94,
+		Jackson, Tyson,
+		DE
+ 	},
+	{
+ 		97,
+		Jarrett, Grady,
+		DT
+ 	},
+	{
+ 		45,
+		Jones, Deion,
+		MLB
+ 	},
+	{
+ 		11,
+		Jones, Julio,
+		WR
+ 	},
+	{
+ 		25,
+		King, Akeem,
+		DB
+ 	},
+	{
+ 		67,
+		Levitre, Andy,
+		G
+ 	},
+	{
+ 		51,
+		Mack, Alex,
+		C
+ 	},
+	{
+ 		96,
+		Matthews, Cliff,
+		DE
+ 	},
+	{
+ 		70,
+		Matthews, Jake,
+		T
+ 	},
+	{
+ 		74,
+		Mayes, Chris,
+		DT
+ 	},
+	{
+ 		22,
+		Neal, Keanu,
+		SS
+ 	},
+	{
+ 		20,
+		Neasman, Sharrod,
+		DB
+ 	},
+	{
+ 		82,
+		Perkins, Josh,
+		TE
+ 	},
+	{
+ 		34,
+		Poole, Brian,
+		DB
+ 	},
+	{
+ 		50,
+		Reed, Brooks,
+		DE
+ 	},
+	{
+ 		53,
+		Reynolds, LaRoy,
+		LB
+ 	},
+	{
+ 		35,
+		Ridley, Stevan,
+		RB
+ 	},
+	{
+ 		19,
+		Robinson, Aldrick,
+		WR
+ 	},
+	{
+ 		2,
+		Ryan, Matt,
+		QB
+ 	},
+	{
+ 		12,
+		Sanu, Mohamed,
+		WR
+ 	},
+	{
+ 		8,
+		Schaub, Matt,
+		QB
+ 	},
+	{
+ 		73,
+		Schraeder, Ryan,
+		T
+ 	},
+	{
+ 		71,
+		Schweitzer, Wes,
+		OG
+ 	},
+	{
+ 		90,
+		Shelby, Derrick,
+		DE
+ 	},
+	{
+ 		52,
+		Starr, Tyler,
+		LB
+ 	},
+	{
+ 		83,
+		Tamme, Jacob,
+		TE
+ 	},
+	{
+ 		27,
+		Therezie, Robenson,
+		FS
+ 	},
+	{
+ 		80,
+		Toilolo, Levine,
+		TE
+ 	},
+	{
+ 		21,
+		Trufant, Desmond,
+		CB
+ 	},
+	{
+ 		91,
+		Upshaw, Courtney,
+		DT
+ 	},
+	{
+ 		28,
+		Ward, Terron,
+		RB
+ 	},
+	{
+ 		56,
+		Weatherspoon, Sean,
+		OLB
+ 	},
+	{
+ 		14,
+		Weems, Eric,
+		WR
+ 	},
+	{
+ 		41,
+		Wheeler, Philip,
+		OLB
+ 	},
+	{
+ 		55,
+		Worrilow, Paul,
+		MLB
+ 	},
+}

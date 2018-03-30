@@ -1,0 +1,302 @@
+{
+	{
+ 		97,
+		Addison, Mario,
+		DE
+ 	},
+	{
+ 		65,
+		Alecxih, Chas,
+		DT
+ 	},
+	{
+ 		3,
+		Anderson, Derek,
+		QB
+ 	},
+	{
+ 		34,
+		Artis-Payne, Cameron,
+		RB
+ 	},
+	{
+ 		13,
+		Benjamin, Kelvin,
+		WR
+ 	},
+	{
+ 		11,
+		Bersin, Brenton,
+		WR
+ 	},
+	{
+ 		33,
+		Boston, Tre,
+		FS
+ 	},
+	{
+ 		24,
+		Bradberry, James,
+		CB
+ 	},
+	{
+ 		10,
+		Brown, Corey,
+		WR
+ 	},
+	{
+ 		92,
+		Butler, Vernon,
+		DT
+ 	},
+	{
+ 		86,
+		Byrd, LaRon,
+		WR
+ 	},
+	{
+ 		57,
+		Cash, Jeremy,
+		LB
+ 	},
+	{
+ 		20,
+		Coleman, Kurt,
+		SS
+ 	},
+	{
+ 		58,
+		Davis, Thomas,
+		OLB
+ 	},
+	{
+ 		91,
+		Delaire, Ryan,
+		DE
+ 	},
+	{
+ 		84,
+		Dickson, Ed,
+		TE
+ 	},
+	{
+ 		94,
+		Ealy, Kony,
+		DE
+ 	},
+	{
+ 		17,
+		Funchess, Devin,
+		WR
+ 	},
+	{
+ 		9,
+		Gano, Graham,
+		K
+ 	},
+	{
+ 		19,
+		Ginn, Ted,
+		WR
+ 	},
+	{
+ 		66,
+		Gradkowski, Gino,
+		C
+ 	},
+	{
+ 		54,
+		Green-Thompson, Shaq,
+		OLB
+ 	},
+	{
+ 		22,
+		Griffin, Michael,
+		FS
+ 	},
+	{
+ 		78,
+		Hawkins, Donald,
+		OT
+ 	},
+	{
+ 		96,
+		Horton, Wes,
+		DE
+ 	},
+	{
+ 		44,
+		Jansen, J.J.,
+		LS
+ 	},
+	{
+ 		47,
+		Johnson, Devon,
+		RB
+ 	},
+	{
+ 		95,
+		Johnson, Charles,
+		DE
+ 	},
+	{
+ 		23,
+		Johnson, Leonard,
+		DB
+ 	},
+	{
+ 		42,
+		Jones, Colin,
+		FS
+ 	},
+	{
+ 		67,
+		Kalil, Ryan,
+		C
+ 	},
+	{
+ 		56,
+		Klein, A.J.,
+		MLB
+ 	},
+	{
+ 		59,
+		Kuechly, Luke,
+		MLB
+ 	},
+	{
+ 		69,
+		Larsen, Tyler,
+		OG
+ 	},
+	{
+ 		8,
+		Lee, Andy,
+		P
+ 	},
+	{
+ 		98,
+		Lotulelei, Star,
+		DT
+ 	},
+	{
+ 		77,
+		Love, Kyle,
+		DT
+ 	},
+	{
+ 		82,
+		Manhertz, Chris,
+		TE
+ 	},
+	{
+ 		29,
+		Marlowe, Dean,
+		FS
+ 	},
+	{
+ 		55,
+		Mayo, David,
+		LB
+ 	},
+	{
+ 		27,
+		McClain, Robert,
+		CB
+ 	},
+	{
+ 		1,
+		Newton, Cam,
+		QB
+ 	},
+	{
+ 		52,
+		Norris, Jared,
+		ILB
+ 	},
+	{
+ 		68,
+		Norwell, Andrew,
+		G
+ 	},
+	{
+ 		73,
+		Oher, Michael,
+		T
+ 	},
+	{
+ 		88,
+		Olsen, Greg,
+		TE
+ 	},
+	{
+ 		P,
+		Remmers, Mike,
+		T
+ 	},
+	{
+ 		72,
+		Rigsbee, Jordan,
+		OG
+ 	},
+	{
+ 		31,
+		Sanchez, Zack,
+		CB
+ 	},
+	{
+ 		79,
+		Scott, Chris,
+		G
+ 	},
+	{
+ 		99,
+		Short, Kawann,
+		DT
+ 	},
+	{
+ 		90,
+		Soliai, Paul,
+		DT
+ 	},
+	{
+ 		28,
+		Stewart, Jonathan,
+		RB
+ 	},
+	{
+ 		35,
+		Tolbert, Mike,
+		FB
+ 	},
+	{
+ 		70,
+		Turner, Trai,
+		G
+ 	},
+	{
+ 		14,
+		Webb, Joe,
+		QB
+ 	},
+	{
+ 		43,
+		Whittaker, Fozzy,
+		RB
+ 	},
+	{
+ 		60,
+		Williams, Daryl,
+		OT
+ 	},
+	{
+ 		21,
+		Williams, Teddy,
+		DB
+ 	},
+	{
+ 		26,
+		Worley, Daryl,
+		CB
+ 	},
+}

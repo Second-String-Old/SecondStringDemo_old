@@ -1,0 +1,342 @@
+{
+	{
+ 		37,
+		Addae, Jahleel,
+		SS
+ 	},
+	{
+ 		13,
+		Allen, Keenan,
+		WR
+ 	},
+	{
+ 		97,
+		Attaochu, Jeremiah,
+		OLB
+ 	},
+	{
+ 		72,
+		Barksdale, Joe,
+		T
+ 	},
+	{
+ 		12,
+		Benjamin, Travis,
+		WR
+ 	},
+	{
+ 		99,
+		Bosa, Joey,
+		DE
+ 	},
+	{
+ 		57,
+		Brown, Jatavis,
+		ILB
+ 	},
+	{
+ 		89,
+		Burse, Isaiah,
+		WR
+ 	},
+	{
+ 		78,
+		Burwell, Tyreek,
+		OT
+ 	},
+	{
+ 		88,
+		Butler, Jeremy,
+		WR
+ 	},
+	{
+ 		1,
+		Carlis, Zamir,
+		DT
+ 	},
+	{
+ 		63,
+		Clark, Donavon,
+		OG
+ 	},
+	{
+ 		10,
+		Clemens, Kellen,
+		QB
+ 	},
+	{
+ 		45,
+		Cleveland, Asante,
+		TE
+ 	},
+	{
+ 		87,
+		Cumberland, Jeff,
+		TE
+ 	},
+	{
+ 		81,
+		Davis, Geremy,
+		WR
+ 	},
+	{
+ 		77,
+		Dunlap, King,
+		T
+ 	},
+	{
+ 		48,
+		Dzubnar, Nick,
+		LB
+ 	},
+	{
+ 		51,
+		Emanuel, Kyle,
+		OLB
+ 	},
+	{
+ 		27,
+		Farrow, Kenneth,
+		RB
+ 	},
+	{
+ 		24,
+		Flowers, Brandon,
+		CB
+ 	},
+	{
+ 		76,
+		Fluker, D.J.,
+		OG
+ 	},
+	{
+ 		74,
+		Franklin, Orlando,
+		OG
+ 	},
+	{
+ 		85,
+		Gates, Antonio,
+		TE
+ 	},
+	{
+ 		28,
+		Gordon, Melvin,
+		RB
+ 	},
+	{
+ 		75,
+		Hairston, Chris,
+		OT
+ 	},
+	{
+ 		26,
+		Hayward, Casey,
+		CB
+ 	},
+	{
+ 		59,
+		Hekking, Brock,
+		LB
+ 	},
+	{
+ 		86,
+		Henry, Hunter,
+		TE
+ 	},
+	{
+ 		81,
+		Herndon, Javontee,
+		WR
+ 	},
+	{
+ 		54,
+		Ingram, Melvin,
+		OLB
+ 	},
+	{
+ 		15,
+		Inman, Dontrelle,
+		WR
+ 	},
+	{
+ 		11,
+		Johnson, Steve,
+		WR
+ 	},
+	{
+ 		70,
+		Johnstone, Tyler,
+		OT
+ 	},
+	{
+ 		8,
+		Kaser, Drew,
+		P
+ 	},
+	{
+ 		2,
+		Lambo, Josh,
+		K
+ 	},
+	{
+ 		46,
+		Landrum, Chris,
+		LB
+ 	},
+	{
+ 		98,
+		Lissemore, Sean,
+		NT
+ 	},
+	{
+ 		94,
+		Liuget, Corey,
+		DE
+ 	},
+	{
+ 		20,
+		Lowery, Dwight,
+		FS
+ 	},
+	{
+ 		29,
+		Mager, Craig,
+		SS
+ 	},
+	{
+ 		23,
+		McCoil, Dexter,
+		SS
+ 	},
+	{
+ 		84,
+		McGrath, Sean,
+		TE
+ 	},
+	{
+ 		92,
+		Mebane, Brandon,
+		NT
+ 	},
+	{
+ 		43,
+		Oliver, Branden,
+		RB
+ 	},
+	{
+ 		95,
+		Palepoi, Tenny,
+		DE
+ 	},
+	{
+ 		53,
+		Perry, Joshua,
+		ILB
+ 	},
+	{
+ 		52,
+		Perryman, Denzel,
+		ILB
+ 	},
+	{
+ 		31,
+		Phillips, Adrian,
+		SS
+ 	},
+	{
+ 		93,
+		Philon, Darius,
+		DE
+ 	},
+	{
+ 		73,
+		Pulley, Spencer,
+		C
+ 	},
+	{
+ 		91,
+		Reid, Caraun,
+		DT
+ 	},
+	{
+ 		17,
+		Rivers, Philip,
+		QB
+ 	},
+	{
+ 		68,
+		Slauson, Matt,
+		C
+ 	},
+	{
+ 		71,
+		Square, Damion,
+		NT
+ 	},
+	{
+ 		25,
+		Stuckey, Darrell,
+		DB
+ 	},
+	{
+ 		50,
+		Te'o, Manti,
+		ILB
+ 	},
+	{
+ 		56,
+		Toomer, Korey,
+		ILB
+ 	},
+	{
+ 		62,
+		Tuerk, Max,
+		C
+ 	},
+	{
+ 		22,
+		Verrett, Jason,
+		CB
+ 	},
+	{
+ 		34,
+		Watt, Derek,
+		FB
+ 	},
+	{
+ 		83,
+		Whalen, Griff,
+		WR
+ 	},
+	{
+ 		79,
+		Wiggins, Kenny,
+		OG
+ 	},
+	{
+ 		58,
+		Williams, Tourek,
+		OLB
+ 	},
+	{
+ 		16,
+		Williams, Tyrell,
+		WR
+ 	},
+	{
+ 		42,
+		Williams, Trevor,
+		CB
+ 	},
+	{
+ 		47,
+		Windt, Mike,
+		LS
+ 	},
+	{
+ 		39,
+		Woodhead, Danny,
+		RB
+ 	},
+}

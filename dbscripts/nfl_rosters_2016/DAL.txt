@@ -1,0 +1,317 @@
+{
+	{
+ 		5,
+		Bailey, Dan,
+		K
+ 	},
+	{
+ 		61,
+		Baldwin, Darryl,
+		T
+ 	},
+	{
+ 		11,
+		Beasley, Cole,
+		WR
+ 	},
+	{
+ 		10,
+		Brown, Chris,
+		WR
+ 	},
+	{
+ 		30,
+		Brown, Anthony,
+		CB
+ 	},
+	{
+ 		88,
+		Bryant, Dez,
+		WR
+ 	},
+	{
+ 		19,
+		Butler, Brice,
+		WR
+ 	},
+	{
+ 		39,
+		Carr, Brandon,
+		CB
+ 	},
+	{
+ 		42,
+		Church, Barry,
+		SS
+ 	},
+	{
+ 		24,
+		Claiborne, Morris,
+		CB
+ 	},
+	{
+ 		63,
+		Cleary, Emmett,
+		T
+ 	},
+	{
+ 		96,
+		Collins, Maliek,
+		DT
+ 	},
+	{
+ 		71,
+		Collins, La'el,
+		OG
+ 	},
+	{
+ 		58,
+		Crawford, Jack,
+		DE
+ 	},
+	{
+ 		98,
+		Crawford, Tyrone,
+		DE
+ 	},
+	{
+ 		75,
+		Davis, Ryan,
+		LB
+ 	},
+	{
+ 		25,
+		Dunbar, Lance,
+		RB
+ 	},
+	{
+ 		56,
+		Durant, Justin,
+		LB
+ 	},
+	{
+ 		21,
+		Elliott, Ezekiel,
+		RB
+ 	},
+	{
+ 		89,
+		Escobar, Gavin,
+		TE
+ 	},
+	{
+ 		35,
+		Frazier, Kavon,
+		SS
+ 	},
+	{
+ 		72,
+		Frederick, Travis,
+		C
+ 	},
+	{
+ 		68,
+		Free, Doug,
+		T
+ 	},
+	{
+ 		52,
+		Gachkar, Andrew,
+		OLB
+ 	},
+	{
+ 		79,
+		Green, Chaz,
+		OT
+ 	},
+	{
+ 		94,
+		Gregory, Randy,
+		DE
+ 	},
+	{
+ 		84,
+		Hanna, James,
+		TE
+ 	},
+	{
+ 		38,
+		Heath, Jeff,
+		SS
+ 	},
+	{
+ 		59,
+		Hitchens, Anthony,
+		MLB
+ 	},
+	{
+ 		95,
+		Irving, David,
+		DT
+ 	},
+	{
+ 		34,
+		Jackson, Darius,
+		RB
+ 	},
+	{
+ 		31,
+		Jones, Byron,
+		FS
+ 	},
+	{
+ 		6,
+		Jones, Chris,
+		P
+ 	},
+	{
+ 		91,
+		LaDouceur, L.P.,
+		LS
+ 	},
+	{
+ 		90,
+		Lawrence, Demarcus,
+		DE
+ 	},
+	{
+ 		65,
+		Leary, Ronald,
+		G
+ 	},
+	{
+ 		50,
+		Lee, Sean,
+		OLB
+ 	},
+	{
+ 		73,
+		Looney, Joe,
+		C
+ 	},
+	{
+ 		70,
+		Martin, Zack,
+		G
+ 	},
+	{
+ 		WR,
+		Mayowa, Benson,
+		DE
+ 	},
+	{
+ 		55,
+		McClain, Rolando,
+		MLB
+ 	},
+	{
+ 		97,
+		McClain, Terrell,
+		DT
+ 	},
+	{
+ 		23,
+		McFadden, Leon,
+		DB
+ 	},
+	{
+ 		17,
+		Moore, Kellen,
+		QB
+ 	},
+	{
+ 		46,
+		Morris, James,
+		LB
+ 	},
+	{
+ 		46,
+		Morris, Alfred,
+		RB
+ 	},
+	{
+ 		53,
+		Nzeocha, Mark,
+		OLB
+ 	},
+	{
+ 		4,
+		Prescott, Dak,
+		QB
+ 	},
+	{
+ 		9,
+		Romo, Tony,
+		QB
+ 	},
+	{
+ 		3,
+		Sanchez, Mark,
+		QB
+ 	},
+	{
+ 		32,
+		Scandrick, Orlando,
+		CB
+ 	},
+	{
+ 		41,
+		Smith, Keith,
+		FB
+ 	},
+	{
+ 		77,
+		Smith, Tyron,
+		T
+ 	},
+	{
+ 		87,
+		Swaim, Geoff,
+		TE
+ 	},
+	{
+ 		99,
+		Tapper, Charles,
+		DE
+ 	},
+	{
+ 		26,
+		Thomas, Josh,
+		DB
+ 	},
+	{
+ 		92,
+		Thornton, Cedric,
+		DT
+ 	},
+	{
+ 		13,
+		Whitehead, Lucky,
+		WR
+ 	},
+	{
+ 		51,
+		Wilber, Kyle,
+		OLB
+ 	},
+	{
+ 		27,
+		Wilcox, J.J.,
+		FS
+ 	},
+	{
+ 		83,
+		Williams, Terrance,
+		WR
+ 	},
+	{
+ 		57,
+		Wilson, Damien,
+		ILB
+ 	},
+	{
+ 		82,
+		Witten, Jason,
+		TE
+ 	},
+}

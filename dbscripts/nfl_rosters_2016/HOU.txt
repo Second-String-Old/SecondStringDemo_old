@@ -1,0 +1,327 @@
+{
+	{
+ 		78,
+		Aboushi, Oday,
+		G
+ 	},
+	{
+ 		79,
+		Allen, Jeff,
+		OG
+ 	},
+	{
+ 		89,
+		Anderson, Stephen,
+		TE
+ 	},
+	{
+ 		39,
+		Ballentine, Lonnie,
+		SAF
+ 	},
+	{
+ 		68,
+		Bergstrom, Tony,
+		C
+ 	},
+	{
+ 		28,
+		Blue, Alfred,
+		RB
+ 	},
+	{
+ 		21,
+		Bouye, A.J.,
+		CB
+ 	},
+	{
+ 		76,
+		Brown, Duane,
+		T
+ 	},
+	{
+ 		53,
+		Bullough, Max,
+		ILB
+ 	},
+	{
+ 		74,
+		Clark, Chris,
+		T
+ 	},
+	{
+ 		90,
+		Clowney, Jadeveon,
+		DE
+ 	},
+	{
+ 		95,
+		Covington, Christian,
+		DE
+ 	},
+	{
+ 		56,
+		Cushing, Brian,
+		ILB
+ 	},
+	{
+ 		27,
+		Demps, Quintin,
+		SS
+ 	},
+	{
+ 		50,
+		Dent, Akeem,
+		ILB
+ 	},
+	{
+ 		36,
+		Dillon, K.J.,
+		SAF
+ 	},
+	{
+ 		23,
+		Drummond, Kurtis,
+		FS
+ 	},
+	{
+ 		92,
+		Dunn, Brandon,
+		DT
+ 	},
+	{
+ 		34,
+		Ervin, Tyler,
+		RB
+ 	},
+	{
+ 		7,
+		Fairbairn, Ka'imi,
+		K
+ 	},
+	{
+ 		87,
+		Fiedorowicz, C.J.,
+		TE
+ 	},
+	{
+ 		15,
+		Fuller, Will,
+		WR
+ 	},
+	{
+ 		84,
+		Griffin, Ryan,
+		TE
+ 	},
+	{
+ 		41,
+		Grimes, Jonathan,
+		RB
+ 	},
+	{
+ 		29,
+		Hal, Andre,
+		FS
+ 	},
+	{
+ 		93,
+		Heath, Joel,
+		DT
+ 	},
+	{
+ 		10,
+		Hopkins, DeAndre,
+		WR
+ 	},
+	{
+ 		33,
+		Hunt, Akeem,
+		RB
+ 	},
+	{
+ 		25,
+		Jackson, Kareem,
+		CB
+ 	},
+	{
+ 		31,
+		James, Charles,
+		DB
+ 	},
+	{
+ 		30,
+		Johnson, Kevin,
+		CB
+ 	},
+	{
+ 		20,
+		Jones, Don,
+		DB
+ 	},
+	{
+ 		24,
+		Joseph, Johnathan,
+		CB
+ 	},
+	{
+ 		63,
+		Lamm, Kendall,
+		T
+ 	},
+	{
+ 		9,
+		Lechler, Shane,
+		P
+ 	},
+	{
+ 		65,
+		Mancz, Greg,
+		C
+ 	},
+	{
+ 		66,
+		Martin, Nick,
+		C
+ 	},
+	{
+ 		55,
+		McKinney, Benardrick,
+		ILB
+ 	},
+	{
+ 		59,
+		Mercilus, Whitney,
+		OLB
+ 	},
+	{
+ 		13,
+		Miller, Braxton,
+		WR
+ 	},
+	{
+ 		26,
+		Miller, Lamar,
+		RB
+ 	},
+	{
+ 		43,
+		Moore, Corey,
+		SS
+ 	},
+	{
+ 		12,
+		Mumphery, Keith,
+		WR
+ 	},
+	{
+ 		32,
+		Nelson, Robert,
+		DB
+ 	},
+	{
+ 		72,
+		Newton, Derek,
+		T
+ 	},
+	{
+ 		8,
+		Novak, Nick,
+		K
+ 	},
+	{
+ 		17,
+		Osweiler, Brock,
+		QB
+ 	},
+	{
+ 		52,
+		Peters, Brian,
+		LB
+ 	},
+	{
+ 		35,
+		Pleasant, Eddie,
+		DB
+ 	},
+	{
+ 		45,
+		Prosch, Jay,
+		FB
+ 	},
+	{
+ 		98,
+		Reader, D.J.,
+		DE
+ 	},
+	{
+ 		48,
+		Rivers, Gerald,
+		LB
+ 	},
+	{
+ 		3,
+		Savage, Tom,
+		QB
+ 	},
+	{
+ 		57,
+		Scarlett, Brennan,
+		LB
+ 	},
+	{
+ 		51,
+		Simon, John,
+		OLB
+ 	},
+	{
+ 		94,
+		Smith, Antonio,
+		DE
+ 	},
+	{
+ 		91,
+		Still, Devon,
+		DT
+ 	},
+	{
+ 		11,
+		Strong, Jaelen,
+		WR
+ 	},
+	{
+ 		71,
+		Su'a-Filo, Xavier,
+		G
+ 	},
+	{
+ 		79,
+		Walker, Josh,
+		OG
+ 	},
+	{
+ 		49,
+		Washington, Tony,
+		OLB
+ 	},
+	{
+ 		99,
+		Watt, J.J.,
+		DE
+ 	},
+	{
+ 		5,
+		Weeden, Brandon,
+		QB
+ 	},
+	{
+ 		46,
+		Weeks, Jon,
+		LS
+ 	},
+	{
+ 		75,
+		Wilfork, Vince,
+		NT
+ 	},
+}

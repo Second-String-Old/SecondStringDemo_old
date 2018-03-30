@@ -1,0 +1,312 @@
+{
+	{
+ 		33,
+		Adams, Andrew,
+		FS
+ 	},
+	{
+ 		89,
+		Adams, Jerell,
+		TE
+ 	},
+	{
+ 		24,
+		Apple, Eli,
+		CB
+ 	},
+	{
+ 		65,
+		Beatty, Will,
+		OT
+ 	},
+	{
+ 		13,
+		Beckham, Odell,
+		WR
+ 	},
+	{
+ 		29,
+		Berhe, Nat,
+		FS
+ 	},
+	{
+ 		96,
+		Bromley, Jay,
+		DT
+ 	},
+	{
+ 		52,
+		Casillas, Jonathan,
+		OLB
+ 	},
+	{
+ 		21,
+		Collins, Landon,
+		SS
+ 	},
+	{
+ 		80,
+		Cruz, Victor,
+		WR
+ 	},
+	{
+ 		26,
+		Darkwa, Orleans,
+		RB
+ 	},
+	{
+ 		51,
+		DeOssie, Zak,
+		LS
+ 	},
+	{
+ 		84,
+		Donnell, Larry,
+		TE
+ 	},
+	{
+ 		83,
+		Edwards, Ben,
+		WR
+ 	},
+	{
+ 		74,
+		Flowers, Ereck,
+		OT
+ 	},
+	{
+ 		60,
+		Gettis, Adam,
+		OT
+ 	},
+	{
+ 		93,
+		Goodson, B.J.,
+		OLB
+ 	},
+	{
+ 		5,
+		Gould, Robbie,
+		K
+ 	},
+	{
+ 		25,
+		Hall, Leon,
+		DB
+ 	},
+	{
+ 		95,
+		Hankins, Johnathan,
+		DT
+ 	},
+	{
+ 		17,
+		Harris, Dwayne,
+		WR
+ 	},
+	{
+ 		98,
+		Harrison, Damon,
+		DT
+ 	},
+	{
+ 		68,
+		Hart, Bobby,
+		OT
+ 	},
+	{
+ 		94,
+		Herzlich, Mark,
+		OLB
+ 	},
+	{
+ 		20,
+		Jenkins, Janoris,
+		CB
+ 	},
+	{
+ 		23,
+		Jennings, Rashad,
+		RB
+ 	},
+	{
+ 		77,
+		Jerry, John,
+		G
+ 	},
+	{
+ 		46,
+		Johnson, Will,
+		RB
+ 	},
+	{
+ 		8,
+		Johnson, Josh,
+		QB
+ 	},
+	{
+ 		69,
+		Jones, Brett,
+		C
+ 	},
+	{
+ 		59,
+		Kennard, Devon,
+		OLB
+ 	},
+	{
+ 		15,
+		King, Tavarres,
+		WR
+ 	},
+	{
+ 		81,
+		LaCosse, Matt,
+		TE
+ 	},
+	{
+ 		82,
+		Lewis, Roger,
+		WR
+ 	},
+	{
+ 		10,
+		Manning, Eli,
+		QB
+ 	},
+	{
+ 		12,
+		Nassib, Ryan,
+		QB
+ 	},
+	{
+ 		73,
+		Newhouse, Marshall,
+		OT
+ 	},
+	{
+ 		58,
+		Odighizuwa, Owa,
+		DE
+ 	},
+	{
+ 		78,
+		Okwara, Romeo,
+		DE
+ 	},
+	{
+ 		28,
+		Perkins, Paul,
+		RB
+ 	},
+	{
+ 		90,
+		Pierre-Paul, Jason,
+		DE
+ 	},
+	{
+ 		67,
+		Pugh, Justin,
+		OG
+ 	},
+	{
+ 		43,
+		Rainey, Bobby,
+		RB
+ 	},
+	{
+ 		70,
+		Richburg, Weston,
+		C
+ 	},
+	{
+ 		57,
+		Robinson, Keenan,
+		LB
+ 	},
+	{
+ 		41,
+		Rodgers-Cromartie, Dominique,
+		CB
+ 	},
+	{
+ 		30,
+		Sensabaugh, Coty,
+		CB
+ 	},
+	{
+ 		87,
+		Shepard, Sterling,
+		WR
+ 	},
+	{
+ 		91,
+		Sheppard, Kelvin,
+		MLB
+ 	},
+	{
+ 		53,
+		Skinner, Deontae,
+		LB
+ 	},
+	{
+ 		55,
+		Thomas, J.T.,
+		OLB
+ 	},
+	{
+ 		99,
+		Thomas, Robert,
+		NT
+ 	},
+	{
+ 		22,
+		Thompson, Mykkele,
+		DB
+ 	},
+	{
+ 		27,
+		Thompson, Darian,
+		FS
+ 	},
+	{
+ 		45,
+		Tye, Will,
+		TE
+ 	},
+	{
+ 		47,
+		Unga, Uani',
+		LB
+ 	},
+	{
+ 		34,
+		Vereen, Shane,
+		RB
+ 	},
+	{
+ 		54,
+		Vernon, Olivier,
+		DE
+ 	},
+	{
+ 		31,
+		Wade, Trevin,
+		CB
+ 	},
+	{
+ 		49,
+		Whitlock, Nikita,
+		FB
+ 	},
+	{
+ 		9,
+		Wing, Brad,
+		P
+ 	},
+	{
+ 		72,
+		Wynn, Kerry,
+		DE
+ 	},
+}

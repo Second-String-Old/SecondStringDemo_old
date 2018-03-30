@@ -1,0 +1,332 @@
+{
+	{
+ 		11,
+		Aiken, Kamar,
+		WR
+ 	},
+	{
+ 		37,
+		Allen, Javorius,
+		RB
+ 	},
+	{
+ 		24,
+		Arrington, Kyle,
+		CB
+ 	},
+	{
+ 		86,
+		Boyle, Nick,
+		TE
+ 	},
+	{
+ 		39,
+		Canady, Maurice,
+		CB
+ 	},
+	{
+ 		51,
+		Correa, Kamalei,
+		ILB
+ 	},
+	{
+ 		46,
+		Cox, Morgan,
+		LS
+ 	},
+	{
+ 		94,
+		Davis, Carl,
+		DE
+ 	},
+	{
+ 		30,
+		Dixon, Kenneth,
+		RB
+ 	},
+	{
+ 		62,
+		Ducasse, Vladimir,
+		OT
+ 	},
+	{
+ 		58,
+		Dumervil, Elvis,
+		OLB
+ 	},
+	{
+ 		33,
+		Elam, Matt,
+		SS
+ 	},
+	{
+ 		5,
+		Flacco, Joe,
+		QB
+ 	},
+	{
+ 		80,
+		Gillmore, Crockett,
+		TE
+ 	},
+	{
+ 		93,
+		Guy, Lawrence,
+		DE
+ 	},
+	{
+ 		69,
+		Henry, Willie,
+		DT
+ 	},
+	{
+ 		14,
+		Hester, Devin,
+		WR
+ 	},
+	{
+ 		42,
+		Huff, Marqueston,
+		DB
+ 	},
+	{
+ 		74,
+		Hurst, James,
+		T
+ 	},
+	{
+ 		DB,
+		Jensen, Ryan,
+		OG
+ 	},
+	{
+ 		99,
+		Jernigan, Timmy,
+		DE
+ 	},
+	{
+ 		91,
+		Judon, Matt,
+		LB
+ 	},
+	{
+ 		44,
+		Juszczyk, Kyle,
+		FB
+ 	},
+	{
+ 		92,
+		Kaufusi, Bronson,
+		DE
+ 	},
+	{
+ 		4,
+		Koch, Sam,
+		P
+ 	},
+	{
+ 		41,
+		Levine, Anthony,
+		CB
+ 	},
+	{
+ 		72,
+		Lewis, Alex,
+		OG
+ 	},
+	{
+ 		23,
+		Lewis, Kendrick,
+		FS
+ 	},
+	{
+ 		31,
+		Lewis-Harris, Chris,
+		CB
+ 	},
+	{
+ 		LB,
+		Mallett, Ryan,
+		QB
+ 	},
+	{
+ 		84,
+		Matthews, Chris,
+		WR
+ 	},
+	{
+ 		50,
+		McClellan, Albert,
+		OLB
+ 	},
+	{
+ 		10,
+		Moore, Chris,
+		WR
+ 	},
+	{
+ 		57,
+		Mosley, C.J.,
+		ILB
+ 	},
+	{
+ 		67,
+		Nembot, Stephane,
+		OT
+ 	},
+	{
+ 		48,
+		Onwuasor, Patrick,
+		LB
+ 	},
+	{
+ 		54,
+		Orr, Zach,
+		ILB
+ 	},
+	{
+ 		18,
+		Perriman, Breshad,
+		WR
+ 	},
+	{
+ 		78,
+		Pierce, Michael,
+		DT
+ 	},
+	{
+ 		88,
+		Pitta, Dennis,
+		TE
+ 	},
+	{
+ 		26,
+		Powers, Jerraud,
+		DB
+ 	},
+	{
+ 		27,
+		Price, Sheldon,
+		CB
+ 	},
+	{
+ 		38,
+		Rolle, Jumal,
+		DB
+ 	},
+	{
+ 		22,
+		Smith, Jimmy,
+		CB
+ 	},
+	{
+ 		89,
+		Smith, Steve,
+		WR
+ 	},
+	{
+ 		90,
+		Smith, Za'Darius,
+		OLB
+ 	},
+	{
+ 		79,
+		Stanley, Ronnie,
+		OT
+ 	},
+	{
+ 		55,
+		Suggs, Terrell,
+		OLB
+ 	},
+	{
+ 		34,
+		Taliaferro, Lorenzo,
+		RB
+ 	},
+	{
+ 		9,
+		Tucker, Justin,
+		K
+ 	},
+	{
+ 		96,
+		Urban, Brent,
+		DE
+ 	},
+	{
+ 		64,
+		Urschel, John,
+		OG
+ 	},
+	{
+ 		71,
+		Wagner, Ricky,
+		T
+ 	},
+	{
+ 		17,
+		Wallace, Mike,
+		WR
+ 	},
+	{
+ 		84,
+		Waller, Darren,
+		TE
+ 	},
+	{
+ 		82,
+		Watson, Benjamin,
+		TE
+ 	},
+	{
+ 		21,
+		Webb, Lardarius,
+		FS
+ 	},
+	{
+ 		32,
+		Weddle, Eric,
+		SS
+ 	},
+	{
+ 		77,
+		Wesley, De'Ondre,
+		T
+ 	},
+	{
+ 		28,
+		West, Terrance,
+		RB
+ 	},
+	{
+ 		98,
+		Williams, Brandon,
+		NT
+ 	},
+	{
+ 		87,
+		Williams, Maxx,
+		TE
+ 	},
+	{
+ 		24,
+		Wright, Shareece,
+		CB
+ 	},
+	{
+ 		73,
+		Yanda, Marshal,
+		G
+ 	},
+	{
+ 		36,
+		Young, Tavon,
+		CB
+ 	},
+	{
+ 		53,
+		Zuttah, Jeremy,
+		C
+ 	},
+}

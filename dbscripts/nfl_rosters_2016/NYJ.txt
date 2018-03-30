@@ -1,0 +1,307 @@
+{
+	{
+ 		39,
+		Allen, Antonio,
+		DB
+ 	},
+	{
+ 		11,
+		Anderson, Robby,
+		WR
+ 	},
+	{
+ 		82,
+		Bostick, Brandon,
+		TE
+ 	},
+	{
+ 		84,
+		Bowman, Braedon,
+		TE
+ 	},
+	{
+ 		32,
+		Burris, Juston,
+		CB
+ 	},
+	{
+ 		77,
+		Carpenter, James,
+		G
+ 	},
+	{
+ 		54,
+		Carter, Bruce,
+		OLB
+ 	},
+	{
+ 		53,
+		Catapano, Mike,
+		OLB
+ 	},
+	{
+ 		78,
+		Clady, Ryan,
+		T
+ 	},
+	{
+ 		47,
+		Davis, Kellen,
+		TE
+ 	},
+	{
+ 		87,
+		Decker, Eric,
+		WR
+ 	},
+	{
+ 		70,
+		Dozier, Dakota,
+		T
+ 	},
+	{
+ 		4,
+		Edwards, Lac,
+		P
+ 	},
+	{
+ 		81,
+		Enunwa, Quincy,
+		WR
+ 	},
+	{
+ 		14,
+		Fitzpatrick, Ryan,
+		QB
+ 	},
+	{
+ 		2,
+		Folk, Nick,
+		K
+ 	},
+	{
+ 		22,
+		Forte, Matt,
+		RB
+ 	},
+	{
+ 		68,
+		Giacomini, Breno,
+		T
+ 	},
+	{
+ 		21,
+		Gilchrist, Marcus,
+		FS
+ 	},
+	{
+ 		5,
+		Hackenberg, Christian,
+		QB
+ 	},
+	{
+ 		52,
+		Harris, David,
+		MLB
+ 	},
+	{
+ 		71,
+		Ijalana, Ben,
+		T
+ 	},
+	{
+ 		48,
+		Jenkins, Jordan,
+		OLB
+ 	},
+	{
+ 		76,
+		Johnson, Wesley,
+		OG
+ 	},
+	{
+ 		75,
+		Johnson, Anthony,
+		DT
+ 	},
+	{
+ 		49,
+		Jones, Taiwan,
+		LB
+ 	},
+	{
+ 		50,
+		Lee, Darron,
+		OLB
+ 	},
+	{
+ 		74,
+		Mangold, Nick,
+		C
+ 	},
+	{
+ 		89,
+		Marshall, Jalin,
+		WR
+ 	},
+	{
+ 		15,
+		Marshall, Brandon,
+		WR
+ 	},
+	{
+ 		30,
+		Marshall, Nick,
+		CB
+ 	},
+	{
+ 		95,
+		Martin, Josh,
+		LB
+ 	},
+	{
+ 		55,
+		Mauldin, Lorenzo,
+		OLB
+ 	},
+	{
+ 		23,
+		McDougle, Dexter,
+		CB
+ 	},
+	{
+ 		99,
+		McLendon, Steve,
+		DT
+ 	},
+	{
+ 		45,
+		Miles, Rontez,
+		SS
+ 	},
+	{
+ 		33,
+		Morris, Romar,
+		RB
+ 	},
+	{
+ 		65,
+		Obioha, Julien,
+		DE
+ 	},
+	{
+ 		17,
+		Peake, Charone,
+		WR
+ 	},
+	{
+ 		9,
+		Petty, Bryce,
+		QB
+ 	},
+	{
+ 		29,
+		Powell, Bilal,
+		RB
+ 	},
+	{
+ 		25,
+		Pryor, Calvin,
+		SS
+ 	},
+	{
+ 		46,
+		Purdum, Tanner,
+		LS
+ 	},
+	{
+ 		79,
+		Qvale, Brent,
+		T
+ 	},
+	{
+ 		24,
+		Revis, Darrelle,
+		CB
+ 	},
+	{
+ 		91,
+		Richardson, Sheldon,
+		DE
+ 	},
+	{
+ 		27,
+		Roberts, Darryl,
+		CB
+ 	},
+	{
+ 		88,
+		Seferian-Jenkins, Austin,
+		TE
+ 	},
+	{
+ 		72,
+		Shell, Brandon,
+		OT
+ 	},
+	{
+ 		93,
+		Simon, Deon,
+		DT
+ 	},
+	{
+ 		41,
+		Skrine, Buster,
+		CB
+ 	},
+	{
+ 		19,
+		Smith, Devin,
+		WR
+ 	},
+	{
+ 		7,
+		Smith, Geno,
+		QB
+ 	},
+	{
+ 		26,
+		Spiller, C.J.,
+		RB
+ 	},
+	{
+ 		51,
+		Stanford, Julian,
+		OLB
+ 	},
+	{
+ 		97,
+		Thomas, Lawrence,
+		DE
+ 	},
+	{
+ 		83,
+		Tomlinson, Eric,
+		TE
+ 	},
+	{
+ 		96,
+		Wilkerson, Muhammad,
+		DE
+ 	},
+	{
+ 		92,
+		Williams, Leonard,
+		DT
+ 	},
+	{
+ 		20,
+		Williams, Marcus,
+		CB
+ 	},
+	{
+ 		67,
+		Winters, Brian,
+		G
+ 	},
+}

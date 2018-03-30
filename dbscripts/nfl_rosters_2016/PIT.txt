@@ -1,0 +1,317 @@
+{
+	{
+ 		28,
+		Allen, Cortez,
+		DB
+ 	},
+	{
+ 		LB,
+		Bell, Le'Veon,
+		RB
+ 	},
+	{
+ 		4,
+		Berry, Jordan,
+		P
+ 	},
+	{
+ 		9,
+		Boswell, Chris,
+		K
+ 	},
+	{
+ 		84,
+		Brown, Antonio,
+		WR
+ 	},
+	{
+ 		10,
+		Bryant, Martavis,
+		WR
+ 	},
+	{
+ 		25,
+		Burns, Artie,
+		CB
+ 	},
+	{
+ 		56,
+		Chickillo, Anthony,
+		OLB
+ 	},
+	{
+ 		14,
+		Coates, Sammie,
+		WR
+ 	},
+	{
+ 		31,
+		Cockrell, Ross,
+		CB
+ 	},
+	{
+ 		37,
+		Dangerfield, Jordan,
+		SS
+ 	},
+	{
+ 		28,
+		Davis, Sean,
+		CB
+ 	},
+	{
+ 		66,
+		DeCastro, David,
+		G
+ 	},
+	{
+ 		48,
+		Dupree, Bud,
+		OLB
+ 	},
+	{
+ 		67,
+		Finney, B.J.,
+		OG
+ 	},
+	{
+ 		LB,
+		Foster, Ramon,
+		G
+ 	},
+	{
+ 		22,
+		Gay, William,
+		CB
+ 	},
+	{
+ 		24,
+		Gilbert, Justin,
+		DB
+ 	},
+	{
+ 		77,
+		Gilbert, Marcus,
+		T
+ 	},
+	{
+ 		21,
+		Golden, Robert,
+		SS
+ 	},
+	{
+ 		27,
+		Golson, Senquez,
+		CB
+ 	},
+	{
+ 		89,
+		Green, Ladarius,
+		TE
+ 	},
+	{
+ 		85,
+		Grimble, Xavier,
+		TE
+ 	},
+	{
+ 		83,
+		Hamilton, Cobi,
+		WR
+ 	},
+	{
+ 		79,
+		Hargrave, Javon,
+		NT
+ 	},
+	{
+ 		68,
+		Harris, Ryan,
+		T
+ 	},
+	{
+ 		92,
+		Harrison, James,
+		OLB
+ 	},
+	{
+ 		65,
+		Hawkins, Jerald,
+		OT
+ 	},
+	{
+ 		97,
+		Heyward, Cameron,
+		DE
+ 	},
+	{
+ 		88,
+		Heyward-Bey, Darrius,
+		WR
+ 	},
+	{
+ 		74,
+		Hubbard, Chris,
+		OT
+ 	},
+	{
+ 		81,
+		James, Jesse,
+		TE
+ 	},
+	{
+ 		51,
+		Johnson, Steven,
+		LB
+ 	},
+	{
+ 		82,
+		Johnson, David,
+		TE
+ 	},
+	{
+ 		95,
+		Jones, Jarvis,
+		OLB
+ 	},
+	{
+ 		3,
+		Jones, Landry,
+		QB
+ 	},
+	{
+ 		64,
+		Manhart, Cole,
+		OG
+ 	},
+	{
+ 		44,
+		Matakevich, Tyler,
+		OLB
+ 	},
+	{
+ 		90,
+		Mathews, Ricardo,
+		DE
+ 	},
+	{
+ 		93,
+		McCullers-Sanders, Dan,
+		NT
+ 	},
+	{
+ 		18,
+		Mettenberger, Zach,
+		QB
+ 	},
+	{
+ 		69,
+		Mihalik, Brian,
+		OT
+ 	},
+	{
+ 		23,
+		Mitchell, Mike,
+		FS
+ 	},
+	{
+ 		55,
+		Moats, Arthur,
+		OLB
+ 	},
+	{
+ 		45,
+		Nix-Jones, Roosevelt,
+		FB
+ 	},
+	{
+ 		53,
+		Pouncey, Maurkice,
+		C
+ 	},
+	{
+ 		7,
+		Roethlisberger, Ben,
+		QB
+ 	},
+	{
+ 		17,
+		Rogers, Eli,
+		WR
+ 	},
+	{
+ 		83,
+		Severin, Canaan,
+		WR
+ 	},
+	{
+ 		20,
+		Shabazz, Al-Hajj,
+		DB
+ 	},
+	{
+ 		50,
+		Shazier, Ryan,
+		ILB
+ 	},
+	{
+ 		29,
+		Thomas, Shamarko,
+		SS
+ 	},
+	{
+ 		94,
+		Timmons, Lawrence,
+		ILB
+ 	},
+	{
+ 		33,
+		Toussaint, Fitzgerald,
+		RB
+ 	},
+	{
+ 		91,
+		Tuitt, Stephon,
+		DE
+ 	},
+	{
+ 		61,
+		Ume-Ezeoke, Valerian,
+		C
+ 	},
+	{
+ 		78,
+		Villanueva, Alejandro,
+		T
+ 	},
+	{
+ 		72,
+		Wallace, Cody,
+		C
+ 	},
+	{
+ 		96,
+		Walton, L.T.,
+		DT
+ 	},
+	{
+ 		60,
+		Warren, Greg,
+		LS
+ 	},
+	{
+ 		11,
+		Wheaton, Markus,
+		WR
+ 	},
+	{
+ 		34,
+		Williams, DeAngelo,
+		RB
+ 	},
+	{
+ 		98,
+		Williams, Vince,
+		ILB
+ 	},
+}

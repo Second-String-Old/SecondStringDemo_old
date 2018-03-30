@@ -1,0 +1,312 @@
+{
+	{
+ 		91,
+		Armstead, Arik,
+		DE
+ 	},
+	{
+ 		54,
+		Armstrong, Ray-Ray,
+		OLB
+ 	},
+	{
+ 		68,
+		Beadles, Zane,
+		G
+ 	},
+	{
+ 		84,
+		Bell, Blake,
+		TE
+ 	},
+	{
+ 		50,
+		Bellore, Nick,
+		ILB
+ 	},
+	{
+ 		41,
+		Bethea, Antoine,
+		SS
+ 	},
+	{
+ 		98,
+		Blair, Ronald,
+		DE
+ 	},
+	{
+ 		53,
+		Bowman, NaVorro,
+		ILB
+ 	},
+	{
+ 		26,
+		Brock, Tramaine,
+		CB
+ 	},
+	{
+ 		55,
+		Brooks, Ahmad,
+		OLB
+ 	},
+	{
+ 		77,
+		Brown, Trent,
+		OT
+ 	},
+	{
+ 		99,
+		Buckner, DeForest,
+		DE
+ 	},
+	{
+ 		13,
+		Burbridge, Aaron,
+		WR
+ 	},
+	{
+ 		95,
+		Carradine, Tank,
+		LB
+ 	},
+	{
+ 		88,
+		Celek, Garrett,
+		TE
+ 	},
+	{
+ 		20,
+		Cromartie, Marcus,
+		CB
+ 	},
+	{
+ 		76,
+		Davis, Anthony,
+		OT
+ 	},
+	{
+ 		43,
+		Davis, Chris,
+		CB
+ 	},
+	{
+ 		22,
+		Davis, Mike,
+		RB
+ 	},
+	{
+ 		4,
+		Dawson, Phil,
+		K
+ 	},
+	{
+ 		92,
+		Dial, Quinton,
+		DE
+ 	},
+	{
+ 		90,
+		Dorsey, Glenn,
+		DE
+ 	},
+	{
+ 		24,
+		Draughn, Shaun,
+		RB
+ 	},
+	{
+ 		10,
+		Ellington, Bruce,
+		WR
+ 	},
+	{
+ 		2,
+		Gabbert, Blaine,
+		QB
+ 	},
+	{
+ 		65,
+		Garnett, Joshua,
+		OG
+ 	},
+	{
+ 		85,
+		Hamm, Je'Ron,
+		TE
+ 	},
+	{
+ 		58,
+		Harold, Eli,
+		OLB
+ 	},
+	{
+ 		14,
+		Harper, Chris,
+		WR
+ 	},
+	{
+ 		32,
+		Harris, DuJuan,
+		RB
+ 	},
+	{
+ 		51,
+		Hodges, Gerald,
+		ILB
+ 	},
+	{
+ 		28,
+		Hyde, Carlos,
+		RB
+ 	},
+	{
+ 		63,
+		Jerod-Eddie, Tony,
+		DE
+ 	},
+	{
+ 		36,
+		Johnson, Dontae,
+		CB
+ 	},
+	{
+ 		93,
+		Jones, Chris,
+		DT
+ 	},
+	{
+ 		7,
+		Kaepernick, Colin,
+		QB
+ 	},
+	{
+ 		17,
+		Kerley, Jeremy,
+		WR
+ 	},
+	{
+ 		67,
+		Kilgore, Daniel,
+		C
+ 	},
+	{
+ 		9,
+		Lewis, Thad,
+		QB
+ 	},
+	{
+ 		59,
+		Lynch, Aaron,
+		OLB
+ 	},
+	{
+ 		66,
+		Martin, Marcus,
+		C
+ 	},
+	{
+ 		89,
+		McDonald, Vance,
+		TE
+ 	},
+	{
+ 		86,
+		Nelson, Kyle,
+		LS
+ 	},
+	{
+ 		11,
+		Patton, Quinton,
+		WR
+ 	},
+	{
+ 		5,
+		Pinion, Bradley,
+		P
+ 	},
+	{
+ 		15,
+		Ponder, Christian,
+		QB
+ 	},
+	{
+ 		64,
+		Purcell, Mike,
+		NT
+ 	},
+	{
+ 		27,
+		Reaser, Keith,
+		CB
+ 	},
+	{
+ 		23,
+		Redmond, Will,
+		CB
+ 	},
+	{
+ 		35,
+		Reid, Eric,
+		FS
+ 	},
+	{
+ 		33,
+		Robinson, Rashard,
+		CB
+ 	},
+	{
+ 		14,
+		Rogers, Eric,
+		WR
+ 	},
+	{
+ 		38,
+		Shepherd, JaCorey,
+		CB
+ 	},
+	{
+ 		56,
+		Skov, Shayne,
+		ILB
+ 	},
+	{
+ 		82,
+		Smith, Torrey,
+		WR
+ 	},
+	{
+ 		74,
+		Staley, Joe,
+		T
+ 	},
+	{
+ 		81,
+		Streater, Rod,
+		WR
+ 	},
+	{
+ 		29,
+		Tartt, Jaquiski,
+		SS
+ 	},
+	{
+ 		71,
+		Theus, John,
+		OT
+ 	},
+	{
+ 		61,
+		Tiller, Andrew,
+		G
+ 	},
+	{
+ 		25,
+		Ward, Jimmie,
+		CB
+ 	},
+	{
+ 		57,
+		Wilhoite, Michael,
+		ILB
+ 	},
+}

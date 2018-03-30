@@ -1,0 +1,297 @@
+{
+	{
+ 		20,
+		Alexander, Mackensie,
+		CB
+ 	},
+	{
+ 		44,
+		Asiata, Matt,
+		RB
+ 	},
+	{
+ 		55,
+		Barr, Anthony,
+		OLB
+ 	},
+	{
+ 		64,
+		Beavers, Willie,
+		OG
+ 	},
+	{
+ 		61,
+		Berger, Joe,
+		C
+ 	},
+	{
+ 		76,
+		Boone, Alex,
+		OG
+ 	},
+	{
+ 		8,
+		Bradford, Sam,
+		QB
+ 	},
+	{
+ 		5,
+		Bridgewater, Teddy,
+		QB
+ 	},
+	{
+ 		40,
+		Brothers, Kentrell,
+		OLB
+ 	},
+	{
+ 		68,
+		Clemmings, T.J.,
+		OT
+ 	},
+	{
+ 		57,
+		Cole, Audie,
+		MLB
+ 	},
+	{
+ 		95,
+		Crichton, Scott,
+		DE
+ 	},
+	{
+ 		14,
+		Diggs, Stefon,
+		WR
+ 	},
+	{
+ 		62,
+		Easton, Nick,
+		C
+ 	},
+	{
+ 		85,
+		Ellison, Rhett,
+		TE
+ 	},
+	{
+ 		32,
+		Exum, Antone,
+		CB
+ 	},
+	{
+ 		73,
+		Floyd, Sharrif,
+		DT
+ 	},
+	{
+ 		K,
+		Fusco, Brandon,
+		G
+ 	},
+	{
+ 		52,
+		Greenway, Chad,
+		OLB
+ 	},
+	{
+ 		97,
+		Griffen, Everson,
+		DE
+ 	},
+	{
+ 		41,
+		Harris, Anthony,
+		SS
+ 	},
+	{
+ 		6,
+		Heinicke, Taylor,
+		QB
+ 	},
+	{
+ 		OT,
+		Hill, Shaun,
+		QB
+ 	},
+	{
+ 		33,
+		Hillman, Ronnie,
+		RB
+ 	},
+	{
+ 		99,
+		Hunter, Danielle,
+		DE
+ 	},
+	{
+ 		12,
+		Johnson, Charles,
+		WR
+ 	},
+	{
+ 		92,
+		Johnson, Tom,
+		DT
+ 	},
+	{
+ 		98,
+		Joseph, Linval,
+		DT
+ 	},
+	{
+ 		75,
+		Kalil, Matt,
+		T
+ 	},
+	{
+ 		27,
+		Kearse, Jayron,
+		SS
+ 	},
+	{
+ 		54,
+		Kendricks, Eric,
+		MLB
+ 	},
+	{
+ 		67,
+		Kerin, Zac,
+		OG
+ 	},
+	{
+ 		59,
+		Lamur, Emmanuel,
+		LB
+ 	},
+	{
+ 		48,
+		Line, Zach,
+		FB
+ 	},
+	{
+ 		18,
+		Locke, Jeff,
+		P
+ 	},
+	{
+ 		72,
+		Long, Jake,
+		OT
+ 	},
+	{
+ 		47,
+		McDermott, Kevin,
+		LS
+ 	},
+	{
+ 		21,
+		McKinnon, Jerick,
+		RB
+ 	},
+	{
+ 		89,
+		Morgan, David,
+		TE
+ 	},
+	{
+ 		24,
+		Munnerlyn, Captain,
+		CB
+ 	},
+	{
+ 		23,
+		Newman, Terence,
+		CB
+ 	},
+	{
+ 		84,
+		Patterson, Cordarrelle,
+		WR
+ 	},
+	{
+ 		28,
+		Peterson, Adrian,
+		RB
+ 	},
+	{
+ 		25,
+		Price, Jabari,
+		CB
+ 	},
+	{
+ 		29,
+		Rhodes, Xavier,
+		CB
+ 	},
+	{
+ 		51,
+		Robinson, Edmond,
+		OLB
+ 	},
+	{
+ 		96,
+		Robison, Brian,
+		DE
+ 	},
+	{
+ 		82,
+		Rudolph, Kyle,
+		TE
+ 	},
+	{
+ 		34,
+		Sendejo, Andrew,
+		SS
+ 	},
+	{
+ 		35,
+		Sherels, Marcus,
+		CB
+ 	},
+	{
+ 		78,
+		Sirles, Jeremiah,
+		OT
+ 	},
+	{
+ 		71,
+		Smith, Andre,
+		OT
+ 	},
+	{
+ 		22,
+		Smith, Harrison,
+		FS
+ 	},
+	{
+ 		93,
+		Stephen, Shamar,
+		DT
+ 	},
+	{
+ 		19,
+		Thielen, Adam,
+		WR
+ 	},
+	{
+ 		94,
+		Trattou, Justin,
+		DE
+ 	},
+	{
+ 		11,
+		Treadwell, Laquon,
+		WR
+ 	},
+	{
+ 		26,
+		Waynes, Trae,
+		CB
+ 	},
+	{
+ 		17,
+		Wright, Jarius,
+		WR
+ 	},
+}

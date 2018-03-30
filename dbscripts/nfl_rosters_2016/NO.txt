@@ -1,0 +1,322 @@
+{
+	{
+ 		50,
+		Anthony, Stephone,
+		OLB
+ 	},
+	{
+ 		72,
+		Armstead, Terron,
+		T
+ 	},
+	{
+ 		37,
+		Banjo, Chris,
+		CB
+ 	},
+	{
+ 		97,
+		Barrington, Sam,
+		LB
+ 	},
+	{
+ 		48,
+		Bell, Vonn,
+		FS
+ 	},
+	{
+ 		40,
+		Breaux, Delvin,
+		CB
+ 	},
+	{
+ 		9,
+		Brees, Drew,
+		QB
+ 	},
+	{
+ 		31,
+		Byrd, Jairus,
+		FS
+ 	},
+	{
+ 		38,
+		Cadet, Travaris,
+		RB
+ 	},
+	{
+ 		16,
+		Coleman, Brandon,
+		WR
+ 	},
+	{
+ 		10,
+		Cooks, Brandin,
+		WR
+ 	},
+	{
+ 		46,
+		Crawley, Ken,
+		CB
+ 	},
+	{
+ 		95,
+		Davison, Tyeler,
+		DT
+ 	},
+	{
+ 		47,
+		Drescher, Justin,
+		LS
+ 	},
+	{
+ 		91,
+		Edebali, Kasim,
+		DE
+ 	},
+	{
+ 		59,
+		Ellerbe, Dannell,
+		OLB
+ 	},
+	{
+ 		73,
+		Evans, Jahri,
+		OG
+ 	},
+	{
+ 		90,
+		Fairley, Nick,
+		DT
+ 	},
+	{
+ 		82,
+		Fleener, Coby,
+		TE
+ 	},
+	{
+ 		58,
+		Gwacham, Obum,
+		DE
+ 	},
+	{
+ 		41,
+		Harper, Roman,
+		SS
+ 	},
+	{
+ 		30,
+		Harris, Erik,
+		DB
+ 	},
+	{
+ 		21,
+		Harris, De'Vante,
+		CB
+ 	},
+	{
+ 		34,
+		Hightower, Tim,
+		RB
+ 	},
+	{
+ 		89,
+		Hill, Josh,
+		TE
+ 	},
+	{
+ 		76,
+		Hills, Tony,
+		OT
+ 	},
+	{
+ 		84,
+		Hoomanawanui, Michael,
+		TE
+ 	},
+	{
+ 		22,
+		Ingram, Mark,
+		RB
+ 	},
+	{
+ 		94,
+		Jordan, Cameron,
+		DE
+ 	},
+	{
+ 		65,
+		Kelemete, Senio,
+		G
+ 	},
+	{
+ 		49,
+		Keo, Shiloh,
+		DB
+ 	},
+	{
+ 		44,
+		Kikaha, Hau'oli,
+		OLB
+ 	},
+	{
+ 		99,
+		Kruger, Paul,
+		DE
+ 	},
+	{
+ 		29,
+		Kuhn, John,
+		FB
+ 	},
+	{
+ 		19,
+		Lampman, Jake,
+		WR
+ 	},
+	{
+ 		36,
+		Lasco, Daniel,
+		RB
+ 	},
+	{
+ 		53,
+		Laurinaitis, James,
+		ILB
+ 	},
+	{
+ 		68,
+		Lelito, Tim,
+		OG
+ 	},
+	{
+ 		87,
+		Lewis, Tommylee,
+		WR
+ 	},
+	{
+ 		3,
+		Lutz, Wil,
+		K
+ 	},
+	{
+ 		7,
+		McCown, Luke,
+		QB
+ 	},
+	{
+ 		24,
+		Moore, Sterling,
+		CB
+ 	},
+	{
+ 		6,
+		Morstead, Thomas,
+		P
+ 	},
+	{
+ 		23,
+		Murphy, Marcus,
+		RB
+ 	},
+	{
+ 		93,
+		Onyemata, David,
+		DT
+ 	},
+	{
+ 		75,
+		Peat, Andrus,
+		OT
+ 	},
+	{
+ 		77,
+		Pettway, D.J.,
+		DE
+ 	},
+	{
+ 		86,
+		Phillips, John,
+		TE
+ 	},
+	{
+ 		43,
+		Pruitt, Jimmy,
+		CB
+ 	},
+	{
+ 		99,
+		Rankins, Sheldon,
+		DT
+ 	},
+	{
+ 		52,
+		Robertson, Craig,
+		OLB
+ 	},
+	{
+ 		33,
+		Sanford, Jamarca,
+		SS
+ 	},
+	{
+ 		83,
+		Snead, Willie,
+		WR
+ 	},
+	{
+ 		64,
+		Strief, Zach,
+		T
+ 	},
+	{
+ 		54,
+		Stupar, Nate,
+		ILB
+ 	},
+	{
+ 		27,
+		Swann, Damian,
+		CB
+ 	},
+	{
+ 		55,
+		Tapp, Darryl,
+		DE
+ 	},
+	{
+ 		13,
+		Thomas, Michael,
+		WR
+ 	},
+	{
+ 		78,
+		Turner, Landon,
+		OG
+ 	},
+	{
+ 		60,
+		Unger, Max,
+		C
+ 	},
+	{
+ 		32,
+		Vaccaro, Kenny,
+		SS
+ 	},
+	{
+ 		28,
+		Webb, B.W.,
+		CB
+ 	},
+	{
+ 		25,
+		Williams, P.J.,
+		CB
+ 	},
+	{
+ 		24,
+		Wilson, Kyle,
+		DB
+ 	},
+}

@@ -1,0 +1,307 @@
+{
+	{
+ 		10,
+		Allen, Brandon,
+		QB
+ 	},
+	{
+ 		93,
+		Alualu, Tyson,
+		DE
+ 	},
+	{
+ 		21,
+		Amukamara, Prince,
+		CB
+ 	},
+	{
+ 		94,
+		Ash, Richard,
+		NT
+ 	},
+	{
+ 		68,
+		Beachum, Kelvin,
+		T
+ 	},
+	{
+ 		17,
+		Benn, Arrelious,
+		WR
+ 	},
+	{
+ 		96,
+		Bennett, Michael,
+		DT
+ 	},
+	{
+ 		14,
+		Blackmon, Justin,
+		WR
+ 	},
+	{
+ 		5,
+		Bortles, Blake,
+		QB
+ 	},
+	{
+ 		70,
+		Bowanko, Luke,
+		C
+ 	},
+	{
+ 		59,
+		Brown, Arthur,
+		LB
+ 	},
+	{
+ 		60,
+		Cann, A.J.,
+		OG
+ 	},
+	{
+ 		22,
+		Colvin, Aaron,
+		CB
+ 	},
+	{
+ 		37,
+		Cyprien, Johnathan,
+		SS
+ 	},
+	{
+ 		92,
+		Day, Sheldon,
+		DT
+ 	},
+	{
+ 		56,
+		Fowler, Dante,
+		DE
+ 	},
+	{
+ 		39,
+		Gipson, Tashaun,
+		FS
+ 	},
+	{
+ 		30,
+		Grant, Corey,
+		RB
+ 	},
+	{
+ 		13,
+		Greene, Rashad,
+		WR
+ 	},
+	{
+ 		72,
+		Harris, Bryce,
+		T
+ 	},
+	{
+ 		7,
+		Henne, Chad,
+		QB
+ 	},
+	{
+ 		31,
+		House, Davon,
+		CB
+ 	},
+	{
+ 		88,
+		Hurns, Allen,
+		WR
+ 	},
+	{
+ 		33,
+		Ivory, Chris,
+		RB
+ 	},
+	{
+ 		44,
+		Jack, Myles,
+		OLB
+ 	},
+	{
+ 		90,
+		Jackson, Malik,
+		DT
+ 	},
+	{
+ 		76,
+		Joeckel, Luke,
+		OG
+ 	},
+	{
+ 		29,
+		Johnson, Josh,
+		CB
+ 	},
+	{
+ 		95,
+		Jones, Abry,
+		DT
+ 	},
+	{
+ 		83,
+		Koyack, Ben,
+		TE
+ 	},
+	{
+ 		11,
+		Lee, Marqise,
+		WR
+ 	},
+	{
+ 		89,
+		Lewis, Marcedes,
+		TE
+ 	},
+	{
+ 		65,
+		Linder, Brandon,
+		C
+ 	},
+	{
+ 		99,
+		Marks, Sen'Derrick,
+		DT
+ 	},
+	{
+ 		97,
+		Miller, Roy,
+		DT
+ 	},
+	{
+ 		2,
+		Myers, Jason,
+		K
+ 	},
+	{
+ 		91,
+		Ngakoue, Yannick,
+		DE
+ 	},
+	{
+ 		3,
+		Nortman, Brad,
+		P
+ 	},
+	{
+ 		75,
+		Odrick, Jared,
+		DE
+ 	},
+	{
+ 		77,
+		Omameh, Patrick,
+		OG
+ 	},
+	{
+ 		78,
+		Parnell, Jermey,
+		OT
+ 	},
+	{
+ 		51,
+		Posluszny, Paul,
+		MLB
+ 	},
+	{
+ 		52,
+		Pullard, Hayes,
+		OLB
+ 	},
+	{
+ 		20,
+		Ramsey, Jalen,
+		CB
+ 	},
+	{
+ 		64,
+		Reed, Christopher,
+		G
+ 	},
+	{
+ 		15,
+		Robinson, Allen,
+		WR
+ 	},
+	{
+ 		16,
+		Robinson, Denard,
+		RB
+ 	},
+	{
+ 		23,
+		Sample, James,
+		SS
+ 	},
+	{
+ 		69,
+		Shatley, Tyler,
+		C
+ 	},
+	{
+ 		55,
+		Skuta, Dan,
+		OLB
+ 	},
+	{
+ 		98,
+		Smith, Chris,
+		DE
+ 	},
+	{
+ 		50,
+		Smith, Telvin,
+		OLB
+ 	},
+	{
+ 		87,
+		Sterling, Neal,
+		TE
+ 	},
+	{
+ 		80,
+		Thomas, Julius,
+		TE
+ 	},
+	{
+ 		25,
+		Thompson, Peyton,
+		DB
+ 	},
+	{
+ 		46,
+		Tinker, Carson,
+		LS
+ 	},
+	{
+ 		81,
+		Walters, Bryan,
+		WR
+ 	},
+	{
+ 		72,
+		Wells, Josh,
+		T
+ 	},
+	{
+ 		47,
+		Wilson, Jarrod,
+		DB
+ 	},
+	{
+ 		66,
+		Woodard, Jonathan,
+		DE
+ 	},
+	{
+ 		24,
+		Yeldon, T.J.,
+		RB
+ 	},
+}

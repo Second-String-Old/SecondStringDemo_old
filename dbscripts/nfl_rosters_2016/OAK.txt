@@ -1,0 +1,302 @@
+{
+	{
+ 		74,
+		Alexander, Vadal,
+		OT
+ 	},
+	{
+ 		20,
+		Allen, Nate,
+		SS
+ 	},
+	{
+ 		29,
+		Amerson, David,
+		CB
+ 	},
+	{
+ 		96,
+		Autry, Denico,
+		DE
+ 	},
+	{
+ 		58,
+		Ball, Neiron,
+		OLB
+ 	},
+	{
+ 		56,
+		Bates, Daren,
+		LB
+ 	},
+	{
+ 		91,
+		Calhoun, Shilique,
+		LB
+ 	},
+	{
+ 		4,
+		Carr, Derek,
+		QB
+ 	},
+	{
+ 		38,
+		Carrie, T.J.,
+		SS
+ 	},
+	{
+ 		59,
+		Condo, Jon,
+		LS
+ 	},
+	{
+ 		8,
+		Cook, Connor,
+		QB
+ 	},
+	{
+ 		89,
+		Cooper, Amari,
+		WR
+ 	},
+	{
+ 		15,
+		Crabtree, Michael,
+		WR
+ 	},
+	{
+ 		97,
+		Edwards, Mario,
+		DE
+ 	},
+	{
+ 		30,
+		Edwards, SaQwan,
+		DB
+ 	},
+	{
+ 		78,
+		Ellis, Justin,
+		DT
+ 	},
+	{
+ 		76,
+		Feliciano, Jon,
+		OG
+ 	},
+	{
+ 		32,
+		Hamilton, Antonio,
+		DB
+ 	},
+	{
+ 		25,
+		Hayden, D.J.,
+		CB
+ 	},
+	{
+ 		50,
+		Heeney, Ben,
+		MLB
+ 	},
+	{
+ 		18,
+		Holmes, Andre,
+		WR
+ 	},
+	{
+ 		82,
+		Holmes, Gabe,
+		TE
+ 	},
+	{
+ 		16,
+		Holton, Johnny,
+		WR
+ 	},
+	{
+ 		77,
+		Howard, Austin,
+		OT
+ 	},
+	{
+ 		61,
+		Hudson, Rodney,
+		C
+ 	},
+	{
+ 		51,
+		Irvin, Bruce,
+		OLB
+ 	},
+	{
+ 		66,
+		Jackson, Gabe,
+		G
+ 	},
+	{
+ 		57,
+		James, Cory,
+		MLB
+ 	},
+	{
+ 		11,
+		Janikowski, Sebastian,
+		K
+ 	},
+	{
+ 		22,
+		Jones, Taiwan,
+		RB
+ 	},
+	{
+ 		42,
+		Joseph, Karl,
+		SS
+ 	},
+	{
+ 		7,
+		King, Marquette,
+		P
+ 	},
+	{
+ 		79,
+		Kirkland, Denver,
+		OG
+ 	},
+	{
+ 		75,
+		Latham, Darius,
+		DT
+ 	},
+	{
+ 		52,
+		Mack, Khalil,
+		DE
+ 	},
+	{
+ 		73,
+		McCants, Matt,
+		T
+ 	},
+	{
+ 		23,
+		McDonald, Dexter,
+		CB
+ 	},
+	{
+ 		92,
+		McGee, Stacy,
+		DT
+ 	},
+	{
+ 		39,
+		McGill, Keith,
+		SS
+ 	},
+	{
+ 		14,
+		McGloin, Matt,
+		QB
+ 	},
+	{
+ 		28,
+		Murray, Latavius,
+		RB
+ 	},
+	{
+ 		27,
+		Nelson, Reggie,
+		FS
+ 	},
+	{
+ 		85,
+		O'Malley, Ryan,
+		TE
+ 	},
+	{
+ 		49,
+		Olawale, Jamize,
+		FB
+ 	},
+	{
+ 		70,
+		Osemele, Kelechi,
+		OG
+ 	},
+	{
+ 		72,
+		Penn, Donald,
+		T
+ 	},
+	{
+ 		30,
+		Richard, Jalen,
+		RB
+ 	},
+	{
+ 		54,
+		Riley, Perry,
+		OLB
+ 	},
+	{
+ 		81,
+		Rivera, Mychal,
+		TE
+ 	},
+	{
+ 		10,
+		Roberts, Seth,
+		WR
+ 	},
+	{
+ 		21,
+		Smith, Sean,
+		CB
+ 	},
+	{
+ 		99,
+		Smith, Aldon,
+		OLB
+ 	},
+	{
+ 		86,
+		Smith, Lee,
+		TE
+ 	},
+	{
+ 		53,
+		Smith, Malcolm,
+		OLB
+ 	},
+	{
+ 		41,
+		Trawick, Brynden,
+		DB
+ 	},
+	{
+ 		88,
+		Walford, Clive,
+		TE
+ 	},
+	{
+ 		95,
+		Ward, Jihad,
+		DE
+ 	},
+	{
+ 		33,
+		Washington, DeAndre,
+		RB
+ 	},
+	{
+ 		71,
+		Watson, Menelik,
+		T
+ 	},
+	{
+ 		90,
+		Williams, Dan,
+		DT
+ 	},
+}

@@ -1,0 +1,292 @@
+{
+	{
+ 		17,
+		Agholor, Nelson,
+		WR
+ 	},
+	{
+ 		94,
+		Allen, Beau,
+		DT
+ 	},
+	{
+ 		68,
+		Andrews, Josh,
+		G
+ 	},
+	{
+ 		76,
+		Barbre, Allen,
+		OG
+ 	},
+	{
+ 		34,
+		Barner, Kenjon,
+		RB
+ 	},
+	{
+ 		98,
+		Barwin, Connor,
+		DE
+ 	},
+	{
+ 		53,
+		Bradham, Nigel,
+		OLB
+ 	},
+	{
+ 		56,
+		Braman, Bryan,
+		DE
+ 	},
+	{
+ 		79,
+		Brooks, Brandon,
+		G
+ 	},
+	{
+ 		33,
+		Brooks, Ron,
+		CB
+ 	},
+	{
+ 		29,
+		Brooks, Terrence,
+		DB
+ 	},
+	{
+ 		47,
+		Burton, Trey,
+		TE
+ 	},
+	{
+ 		22,
+		Carroll, Nolan,
+		CB
+ 	},
+	{
+ 		87,
+		Celek, Brent,
+		TE
+ 	},
+	{
+ 		91,
+		Cox, Fletcher,
+		DT
+ 	},
+	{
+ 		75,
+		Curry, Vinny,
+		DE
+ 	},
+	{
+ 		10,
+		Daniel, Chase,
+		QB
+ 	},
+	{
+ 		46,
+		Dorenbos, Jon,
+		LS
+ 	},
+	{
+ 		86,
+		Ertz, Zach,
+		TE
+ 	},
+	{
+ 		52,
+		Goode, Najee,
+		LB
+ 	},
+	{
+ 		69,
+		Gordon, Dillon,
+		OG
+ 	},
+	{
+ 		55,
+		Graham, Brandon,
+		DE
+ 	},
+	{
+ 		18,
+		Green-Beckham, Dorial,
+		WR
+ 	},
+	{
+ 		54,
+		Grugier-Hill, Kamu,
+		OLB
+ 	},
+	{
+ 		38,
+		Grymes, Aaron,
+		DB
+ 	},
+	{
+ 		77,
+		Hart, Taylor,
+		DE
+ 	},
+	{
+ 		58,
+		Hicks, Jordan,
+		MLB
+ 	},
+	{
+ 		27,
+		Jenkins, Malcolm,
+		SS
+ 	},
+	{
+ 		65,
+		Johnson, Lane,
+		T
+ 	},
+	{
+ 		8,
+		Jones, Donnie,
+		P
+ 	},
+	{
+ 		62,
+		Kelce, Jason,
+		C
+ 	},
+	{
+ 		95,
+		Kendricks, Mychal,
+		OLB
+ 	},
+	{
+ 		96,
+		Logan, Bennie,
+		DT
+ 	},
+	{
+ 		42,
+		Maragos, Chris,
+		FS
+ 	},
+	{
+ 		24,
+		Mathews, Ryan,
+		RB
+ 	},
+	{
+ 		81,
+		Matthews, Jordan,
+		WR
+ 	},
+	{
+ 		50,
+		McCalister, Alex,
+		DE
+ 	},
+	{
+ 		21,
+		McKelvin, Leodis,
+		CB
+ 	},
+	{
+ 		23,
+		McLeod, Rodney,
+		FS
+ 	},
+	{
+ 		51,
+		Means, Steven,
+		DE
+ 	},
+	{
+ 		31,
+		Mills, Jalen,
+		CB
+ 	},
+	{
+ 		71,
+		Peters, Jason,
+		T
+ 	},
+	{
+ 		73,
+		Seumalo, Isaac,
+		OG
+ 	},
+	{
+ 		28,
+		Smallwood, Wendell,
+		RB
+ 	},
+	{
+ 		37,
+		Smith, C.J.,
+		CB
+ 	},
+	{
+ 		90,
+		Smith, Marcus,
+		DE
+ 	},
+	{
+ 		43,
+		Sproles, Darren,
+		RB
+ 	},
+	{
+ 		6,
+		Sturgis, Caleb,
+		K
+ 	},
+	{
+ 		64,
+		Tobin, Matt,
+		G
+ 	},
+	{
+ 		16,
+		Treggs, Bryce,
+		WR
+ 	},
+	{
+ 		50,
+		Tulloch, Stephen,
+		LB
+ 	},
+	{
+ 		97,
+		Vaeao, Destiny,
+		DT
+ 	},
+	{
+ 		72,
+		Vaitai, Halapoulivaati,
+		OT
+ 	},
+	{
+ 		59,
+		Walker, Joe,
+		ILB
+ 	},
+	{
+ 		26,
+		Watkins, Jaylen,
+		DB
+ 	},
+	{
+ 		11,
+		Wentz, Carson,
+		QB
+ 	},
+	{
+ 		61,
+		Wisniewski, Stefen,
+		C
+ 	},
+	{
+ 		74,
+		Wujciak, Connor,
+		DT
+ 	},
+}

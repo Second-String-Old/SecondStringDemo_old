@@ -1,0 +1,282 @@
+{
+	{
+ 		22,
+		Anderson, C.J.,
+		RB
+ 	},
+	{
+ 		50,
+		Anderson, Zaire,
+		LB
+ 	},
+	{
+ 		48,
+		Barrett, Shaquil,
+		OLB
+ 	},
+	{
+ 		35,
+		Bibbs, Kapri,
+		RB
+ 	},
+	{
+ 		23,
+		Booker, Devontae,
+		RB
+ 	},
+	{
+ 		67,
+		Brenner, Sam,
+		C
+ 	},
+	{
+ 		93,
+		Crick, Jared,
+		DE
+ 	},
+	{
+ 		4,
+		Davis, Austin,
+		QB
+ 	},
+	{
+ 		51,
+		Davis, Todd,
+		ILB
+ 	},
+	{
+ 		83,
+		Derby, A.J.,
+		TE
+ 	},
+	{
+ 		9,
+		Dixon, Riley,
+		P
+ 	},
+	{
+ 		37,
+		Doss, Lorenzo,
+		CB
+ 	},
+	{
+ 		53,
+		Ferentz, James,
+		C
+ 	},
+	{
+ 		16,
+		Fowler, Bennie,
+		WR
+ 	},
+	{
+ 		76,
+		Garcia, Max,
+		OG
+ 	},
+	{
+ 		99,
+		Gotsis, Adam,
+		DT
+ 	},
+	{
+ 		85,
+		Green, Virgil,
+		TE
+ 	},
+	{
+ 		25,
+		Harris, Chris,
+		CB
+ 	},
+	{
+ 		82,
+		Heuerman, Jeff,
+		TE
+ 	},
+	{
+ 		32,
+		Janovich, Andy,
+		FB
+ 	},
+	{
+ 		98,
+		Kilgo, Darius,
+		NT
+ 	},
+	{
+ 		42,
+		Kreiter, Casey,
+		LS
+ 	},
+	{
+ 		14,
+		Latimer, Cody,
+		WR
+ 	},
+	{
+ 		12,
+		Lynch, Paxton,
+		QB
+ 	},
+	{
+ 		54,
+		Marshall, Brandon,
+		ILB
+ 	},
+	{
+ 		60,
+		McGovern, Connor,
+		OG
+ 	},
+	{
+ 		8,
+		McManus, Brandon,
+		K
+ 	},
+	{
+ 		58,
+		Miller, Von,
+		OLB
+ 	},
+	{
+ 		52,
+		Nelson, Corey,
+		ILB
+ 	},
+	{
+ 		39,
+		Nixon, Taurean,
+		DB
+ 	},
+	{
+ 		11,
+		Norwood, Jordan,
+		WR
+ 	},
+	{
+ 		73,
+		Okung, Russell,
+		OT
+ 	},
+	{
+ 		61,
+		Paradis, Matt,
+		C
+ 	},
+	{
+ 		34,
+		Parks, Will,
+		DB
+ 	},
+	{
+ 		56,
+		Ray, Shane,
+		OLB
+ 	},
+	{
+ 		29,
+		Roby, Bradley,
+		CB
+ 	},
+	{
+ 		74,
+		Sambrailo, Ty,
+		OT
+ 	},
+	{
+ 		10,
+		Sanders, Emmanuel,
+		WR
+ 	},
+	{
+ 		79,
+		Schofield, Michael,
+		OG
+ 	},
+	{
+ 		13,
+		Siemian, Trevor,
+		QB
+ 	},
+	{
+ 		31,
+		Simmons, Justin,
+		FS
+ 	},
+	{
+ 		71,
+		Stephenson, Donald,
+		OT
+ 	},
+	{
+ 		26,
+		Stewart, Darian,
+		FS
+ 	},
+	{
+ 		21,
+		Talib, Aqib,
+		CB
+ 	},
+	{
+ 		87,
+		Taylor, Jordan,
+		WR
+ 	},
+	{
+ 		88,
+		Thomas, Demaryius,
+		WR
+ 	},
+	{
+ 		40,
+		Thompson, Juwan,
+		RB
+ 	},
+	{
+ 		70,
+		Turner, Billy,
+		OG
+ 	},
+	{
+ 		96,
+		Walker, Vance,
+		DE
+ 	},
+	{
+ 		43,
+		Ward, T.J.,
+		SS
+ 	},
+	{
+ 		94,
+		Ware, DeMarcus,
+		OLB
+ 	},
+	{
+ 		57,
+		Watson, Dekoda,
+		LB
+ 	},
+	{
+ 		36,
+		Webster, Kayvon,
+		CB
+ 	},
+	{
+ 		92,
+		Williams, Sylvester,
+		NT
+ 	},
+	{
+ 		97,
+		Winn, Billy,
+		DT
+ 	},
+	{
+ 		95,
+		Wolfe, Derek,
+		DE
+ 	},
+}

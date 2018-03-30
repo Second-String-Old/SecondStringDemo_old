@@ -1,0 +1,292 @@
+{
+	{
+ 		97,
+		Atkins, Geno,
+		DT
+ 	},
+	{
+ 		25,
+		Bernard, Giovani,
+		RB
+ 	},
+	{
+ 		75,
+		Billings, Andrew,
+		NT
+ 	},
+	{
+ 		61,
+		Bodine, Russell,
+		C
+ 	},
+	{
+ 		65,
+		Boling, Clint,
+		G
+ 	},
+	{
+ 		83,
+		Boyd, Tyler,
+		WR
+ 	},
+	{
+ 		23,
+		Brown, Chykie,
+		DB
+ 	},
+	{
+ 		55,
+		Burfict, Vontaze,
+		OLB
+ 	},
+	{
+ 		33,
+		Burkhead, Rex,
+		RB
+ 	},
+	{
+ 		93,
+		Clarke, Will,
+		DE
+ 	},
+	{
+ 		16,
+		Core, Cody,
+		WR
+ 	},
+	{
+ 		14,
+		Dalton, Andy,
+		QB
+ 	},
+	{
+ 		56,
+		Dansby, Karlos,
+		OLB
+ 	},
+	{
+ 		21,
+		Dennard, Darqueze,
+		CB
+ 	},
+	{
+ 		6,
+		Driskel, Jeff,
+		QB
+ 	},
+	{
+ 		96,
+		Dunlap, Carlos,
+		DE
+ 	},
+	{
+ 		85,
+		Eifert, Tyler,
+		TE
+ 	},
+	{
+ 		12,
+		Erickson, Alex,
+		WR
+ 	},
+	{
+ 		42,
+		Fejedelem, Clayton,
+		SAF
+ 	},
+	{
+ 		74,
+		Fisher, Jake,
+		OT
+ 	},
+	{
+ 		53,
+		Flowers, Marquis,
+		OLB
+ 	},
+	{
+ 		95,
+		Gilberry, Wallace,
+		DE
+ 	},
+	{
+ 		18,
+		Green, A.J.,
+		WR
+ 	},
+	{
+ 		91,
+		Hardison, Marcus,
+		DT
+ 	},
+	{
+ 		46,
+		Harris, Clark,
+		LS
+ 	},
+	{
+ 		89,
+		Hewitt, Ryan,
+		TE
+ 	},
+	{
+ 		32,
+		Hill, Jeremy,
+		RB
+ 	},
+	{
+ 		10,
+		Huber, Kevin,
+		P
+ 	},
+	{
+ 		99,
+		Hunt, Margus,
+		DE
+ 	},
+	{
+ 		43,
+		Iloka, George,
+		FS
+ 	},
+	{
+ 		22,
+		Jackson, William,
+		CB
+ 	},
+	{
+ 		60,
+		Johnson, T.J.,
+		C
+ 	},
+	{
+ 		90,
+		Johnson, Michael,
+		DE
+ 	},
+	{
+ 		24,
+		Jones, Adam,
+		CB
+ 	},
+	{
+ 		27,
+		Kirkpatrick, Dre,
+		CB
+ 	},
+	{
+ 		81,
+		Kroft, Tyler,
+		TE
+ 	},
+	{
+ 		11,
+		LaFell, Brandon,
+		WR
+ 	},
+	{
+ 		58,
+		Maualuga, Rey,
+		MLB
+ 	},
+	{
+ 		5,
+		McCarron, AJ,
+		QB
+ 	},
+	{
+ 		2,
+		Nugent, Mike,
+		K
+ 	},
+	{
+ 		70,
+		Ogbuehi, Cedric,
+		OT
+ 	},
+	{
+ 		30,
+		Peerman, Cedric,
+		RB
+ 	},
+	{
+ 		94,
+		Peko, Domata,
+		DT
+ 	},
+	{
+ 		57,
+		Rey, Vincent,
+		OLB
+ 	},
+	{
+ 		20,
+		Russell, KeiVarae,
+		CB
+ 	},
+	{
+ 		26,
+		Shaw, Josh,
+		CB
+ 	},
+	{
+ 		92,
+		Sims, Pat,
+		DT
+ 	},
+	{
+ 		31,
+		Smith, Derron,
+		FS
+ 	},
+	{
+ 		98,
+		Thompson, Brandon,
+		DT
+ 	},
+	{
+ 		87,
+		Uzomah, C.J.,
+		TE
+ 	},
+	{
+ 		59,
+		Vigil, Nick,
+		ILB
+ 	},
+	{
+ 		63,
+		Westerman, Christian,
+		OG
+ 	},
+	{
+ 		77,
+		Whitworth, Andrew,
+		T
+ 	},
+	{
+ 		69,
+		Williams, DeShawn,
+		DT
+ 	},
+	{
+ 		36,
+		Williams, Shawn,
+		SS
+ 	},
+	{
+ 		73,
+		Winston, Eric,
+		T
+ 	},
+	{
+ 		86,
+		Wright, James,
+		WR
+ 	},
+	{
+ 		68,
+		Zeitler, Kevin,
+		G
+ 	},
+}

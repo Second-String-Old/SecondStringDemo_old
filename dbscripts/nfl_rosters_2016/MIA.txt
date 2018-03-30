@@ -1,0 +1,292 @@
+{
+	{
+ 		24,
+		Abdul-Quddus, Isa,
+		SS
+ 	},
+	{
+ 		35,
+		Aikens, Walt,
+		FS
+ 	},
+	{
+ 		23,
+		Ajayi, Jay,
+		RB
+ 	},
+	{
+ 		76,
+		Albert, Branden,
+		OT
+ 	},
+	{
+ 		47,
+		Alonso, Kiko,
+		MLB
+ 	},
+	{
+ 		50,
+		Branch, Andre,
+		DE
+ 	},
+	{
+ 		74,
+		Bushrod, Jermon,
+		OG
+ 	},
+	{
+ 		56,
+		Butler, Donald,
+		OLB
+ 	},
+	{
+ 		84,
+		Cameron, Jordan,
+		TE
+ 	},
+	{
+ 		88,
+		Carroo, Leonte,
+		WR
+ 	},
+	{
+ 		38,
+		Chekwa, Chimdi,
+		DB
+ 	},
+	{
+ 		1,
+		Culliver, Chris,
+		DB
+ 	},
+	{
+ 		4,
+		Darr, Matt,
+		P
+ 	},
+	{
+ 		92,
+		Denney, John,
+		LS
+ 	},
+	{
+ 		32,
+		Drake, Kenyan,
+		RB
+ 	},
+	{
+ 		83,
+		Duarte, Thomas,
+		TE
+ 	},
+	{
+ 		33,
+		Ekpre-Olomu, Ifo,
+		CB
+ 	},
+	{
+ 		78,
+		Fede, Terrence,
+		DE
+ 	},
+	{
+ 		3,
+		Franks, Andrew,
+		K
+ 	},
+	{
+ 		19,
+		Grant, Jakeem,
+		WR
+ 	},
+	{
+ 		48,
+		Gray, MarQueis,
+		TE
+ 	},
+	{
+ 		46,
+		Hewitt, Neville,
+		OLB
+ 	},
+	{
+ 		25,
+		Howard, Xavien,
+		CB
+ 	},
+	{
+ 		45,
+		Hull, Mike,
+		LB
+ 	},
+	{
+ 		70,
+		James, Ja'Wuan,
+		T
+ 	},
+	{
+ 		53,
+		Jenkins, Jelani,
+		OLB
+ 	},
+	{
+ 		98,
+		Jones, Jason,
+		DE
+ 	},
+	{
+ 		85,
+		Jones, Dominique,
+		TE
+ 	},
+	{
+ 		20,
+		Jones, Reshad,
+		FS
+ 	},
+	{
+ 		14,
+		Landry, Jarvis,
+		WR
+ 	},
+	{
+ 		36,
+		Lippett, Tony,
+		CB
+ 	},
+	{
+ 		21,
+		Lucas, Jordan,
+		SS
+ 	},
+	{
+ 		41,
+		Maxwell, Byron,
+		CB
+ 	},
+	{
+ 		28,
+		McCain, Bobby,
+		CB
+ 	},
+	{
+ 		55,
+		Misi, Koa,
+		OLB
+ 	},
+	{
+ 		90,
+		Mitchell, Earl,
+		DT
+ 	},
+	{
+ 		8,
+		Moore, Matt,
+		QB
+ 	},
+	{
+ 		96,
+		Orr, Leon,
+		DT
+ 	},
+	{
+ 		11,
+		Parker, DeVante,
+		WR
+ 	},
+	{
+ 		42,
+		Paysinger, Spencer,
+		LB
+ 	},
+	{
+ 		97,
+		Phillips, Jordan,
+		DT
+ 	},
+	{
+ 		40,
+		Pitts, Lafayette,
+		DB
+ 	},
+	{
+ 		51,
+		Pouncey, Mike,
+		C
+ 	},
+	{
+ 		30,
+		Rambo, Bacarri,
+		DB
+ 	},
+	{
+ 		80,
+		Sims, Dion,
+		TE
+ 	},
+	{
+ 		65,
+		Steen, Anthony,
+		C
+ 	},
+	{
+ 		10,
+		Stills, Kenny,
+		WR
+ 	},
+	{
+ 		93,
+		Suh, Ndamukong,
+		DT
+ 	},
+	{
+ 		17,
+		Tannehill, Ryan,
+		QB
+ 	},
+	{
+ 		31,
+		Thomas, Michael,
+		FS
+ 	},
+	{
+ 		67,
+		Tunsil, Laremy,
+		OG
+ 	},
+	{
+ 		60,
+		Urbik, Kraig,
+		C
+ 	},
+	{
+ 		49,
+		Vigil, Zach,
+		OLB
+ 	},
+	{
+ 		91,
+		Wake, Cameron,
+		DE
+ 	},
+	{
+ 		75,
+		Williams, Nick,
+		DT
+ 	},
+	{
+ 		26,
+		Williams, Damien,
+		RB
+ 	},
+	{
+ 		94,
+		Williams, Mario,
+		DE
+ 	},
+	{
+ 		79,
+		Young, Sam,
+		T
+ 	},
+}

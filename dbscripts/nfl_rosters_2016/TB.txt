@@ -1,0 +1,307 @@
+{
+	{
+ 		38,
+		Adjei-Barimah, Jude,
+		CB
+ 	},
+	{
+ 		19,
+		Aguayo, Roberto,
+		K
+ 	},
+	{
+ 		58,
+		Alexander, Kwon,
+		MLB
+ 	},
+	{
+ 		9,
+		Anger, Bryan,
+		P
+ 	},
+	{
+ 		91,
+		Ayers, Robert,
+		DE
+ 	},
+	{
+ 		43,
+		Barber, Peyton,
+		RB
+ 	},
+	{
+ 		77,
+		Benenoch, Caleb,
+		OT
+ 	},
+	{
+ 		59,
+		Bond, Devante,
+		OLB
+ 	},
+	{
+ 		84,
+		Brate, Cameron,
+		TE
+ 	},
+	{
+ 		78,
+		Cherilus, Gosder,
+		T
+ 	},
+	{
+ 		23,
+		Conte, Chris,
+		SS
+ 	},
+	{
+ 		45,
+		Cross, Alan,
+		RB
+ 	},
+	{
+ 		54,
+		David, Lavonte,
+		OLB
+ 	},
+	{
+ 		48,
+		DePaola, Andrew,
+		LS
+ 	},
+	{
+ 		69,
+		Dotson, Demar,
+		T
+ 	},
+	{
+ 		13,
+		Evans, Mike,
+		WR
+ 	},
+	{
+ 		92,
+		Gholston, William,
+		DE
+ 	},
+	{
+ 		53,
+		Glanton, Adarius,
+		OLB
+ 	},
+	{
+ 		8,
+		Glennon, Mike,
+		QB
+ 	},
+	{
+ 		72,
+		Gottschalk, Ben,
+		C
+ 	},
+	{
+ 		4,
+		Griffin, Ryan,
+		QB
+ 	},
+	{
+ 		24,
+		Grimes, Brent,
+		CB
+ 	},
+	{
+ 		28,
+		Hargreaves, Vernon,
+		CB
+ 	},
+	{
+ 		68,
+		Hawley, Joe,
+		C
+ 	},
+	{
+ 		67,
+		Hughes, John,
+		DE
+ 	},
+	{
+ 		11,
+		Humphries, Adam,
+		WR
+ 	},
+	{
+ 		83,
+		Jackson, Vincent,
+		WR
+ 	},
+	{
+ 		25,
+		James, Mike,
+		RB
+ 	},
+	{
+ 		94,
+		Johnson, George,
+		DE
+ 	},
+	{
+ 		95,
+		Jones, Howard,
+		DE
+ 	},
+	{
+ 		75,
+		Lambert, Davonte,
+		DE
+ 	},
+	{
+ 		52,
+		Lynch, Cameron,
+		LB
+ 	},
+	{
+ 		74,
+		Marpet, Ali,
+		OG
+ 	},
+	{
+ 		22,
+		Martin, Doug,
+		RB
+ 	},
+	{
+ 		16,
+		Martino, Freddie,
+		WR
+ 	},
+	{
+ 		93,
+		McCoy, Gerald,
+		DT
+ 	},
+	{
+ 		98,
+		McDonald, Clinton,
+		DT
+ 	},
+	{
+ 		30,
+		McDougald, Bradley,
+		FS
+ 	},
+	{
+ 		18,
+		Murphy, Louis,
+		WR
+ 	},
+	{
+ 		82,
+		Myers, Brandon,
+		TE
+ 	},
+	{
+ 		64,
+		Pamphile, Kevin,
+		OG
+ 	},
+	{
+ 		26,
+		Robinson, Josh,
+		DB
+ 	},
+	{
+ 		32,
+		Rodgers, Jacquizz,
+		RB
+ 	},
+	{
+ 		99,
+		Russell, Ryan,
+		DE
+ 	},
+	{
+ 		89,
+		Shepard, Russell,
+		WR
+ 	},
+	{
+ 		10,
+		Shorts, Cecil,
+		WR
+ 	},
+	{
+ 		DT,
+		Sims, Charles,
+		RB
+ 	},
+	{
+ 		51,
+		Smith, Daryl,
+		OLB
+ 	},
+	{
+ 		29,
+		Smith, Ryan,
+		CB
+ 	},
+	{
+ 		30,
+		Smith, Antone,
+		RB
+ 	},
+	{
+ 		76,
+		Smith, Donovan,
+		OT
+ 	},
+	{
+ 		62,
+		Smith, Evan,
+		OG
+ 	},
+	{
+ 		56,
+		Smith, Jacquies,
+		DE
+ 	},
+	{
+ 		57,
+		Spence, Noah,
+		DE
+ 	},
+	{
+ 		97,
+		Spence, Akeem,
+		DT
+ 	},
+	{
+ 		88,
+		Stocker, Luke,
+		TE
+ 	},
+	{
+ 		73,
+		Sweezy, J.R.,
+		OG
+ 	},
+	{
+ 		37,
+		Tandy, Keith,
+		SS
+ 	},
+	{
+ 		21,
+		Verner, Alterraun,
+		CB
+ 	},
+	{
+ 		66,
+		Wester, Leonard,
+		OT
+ 	},
+	{
+ 		3,
+		Winston, Jameis,
+		QB
+ 	},
+}

@@ -1,0 +1,312 @@
+{
+	{
+ 		57,
+		Alexander, Lorenzo,
+		OLB
+ 	},
+	{
+ 		33,
+		Anderson, Colt,
+		DB
+ 	},
+	{
+ 		86,
+		Annen, Blake,
+		TE
+ 	},
+	{
+ 		26,
+		Blanton, Robert,
+		SS
+ 	},
+	{
+ 		38,
+		Brown, Sergio,
+		DB
+ 	},
+	{
+ 		53,
+		Brown, Zach,
+		ILB
+ 	},
+	{
+ 		52,
+		Brown, Preston,
+		ILB
+ 	},
+	{
+ 		97,
+		Bryant, Corbin,
+		NT
+ 	},
+	{
+ 		22,
+		Bush, Reggie,
+		RB
+ 	},
+	{
+ 		2,
+		Carpenter, Dan,
+		K
+ 	},
+	{
+ 		87,
+		Christian, Gerald,
+		TE
+ 	},
+	{
+ 		85,
+		Clay, Charles,
+		TE
+ 	},
+	{
+ 		28,
+		Darby, Ronald,
+		CB
+ 	},
+	{
+ 		99,
+		Dareus, Marcell,
+		DT
+ 	},
+	{
+ 		91,
+		Douzable, Leger,
+		DE
+ 	},
+	{
+ 		31,
+		Dowling, Jonathan,
+		DB
+ 	},
+	{
+ 		81,
+		Easley, Marcus,
+		WR
+ 	},
+	{
+ 		75,
+		Enemkpali, IK,
+		DE
+ 	},
+	{
+ 		42,
+		Felton, Jerome,
+		RB
+ 	},
+	{
+ 		35,
+		Gillislee, Mike,
+		RB
+ 	},
+	{
+ 		24,
+		Gilmore, Stephon,
+		CB
+ 	},
+	{
+ 		77,
+		Glenn, Cordy,
+		T
+ 	},
+	{
+ 		88,
+		Goodwin, Marquise,
+		WR
+ 	},
+	{
+ 		89,
+		Gragg, Chris,
+		TE
+ 	},
+	{
+ 		20,
+		Graham, Corey,
+		FS
+ 	},
+	{
+ 		72,
+		Groy, Ryan,
+		G
+ 	},
+	{
+ 		11,
+		Harvin, Percy,
+		WR
+ 	},
+	{
+ 		66,
+		Henderson, Seantrel,
+		T
+ 	},
+	{
+ 		55,
+		Hughes, Jerry,
+		OLB
+ 	},
+	{
+ 		50,
+		Humber, Ramon,
+		LB
+ 	},
+	{
+ 		17,
+		Hunter, Justin,
+		WR
+ 	},
+	{
+ 		DB,
+		Incognito, Richie,
+		OG
+ 	},
+	{
+ 		7,
+		Jones, Cardale,
+		QB
+ 	},
+	{
+ 		71,
+		Kouandjio, Cyrus,
+		T
+ 	},
+	{
+ 		90,
+		Lawson, Shaq,
+		DE
+ 	},
+	{
+ 		67,
+		Lewis, Patrick,
+		C
+ 	},
+	{
+ 		3,
+		Manuel, EJ,
+		QB
+ 	},
+	{
+ 		25,
+		McCoy, LeSean,
+		RB
+ 	},
+	{
+ 		56,
+		McCray, Lerentee,
+		LB
+ 	},
+	{
+ 		36,
+		Meeks, Jonathan,
+		DB
+ 	},
+	{
+ 		76,
+		Miller, John,
+		OG
+ 	},
+	{
+ 		79,
+		Mills, Jordan,
+		OT
+ 	},
+	{
+ 		84,
+		O'Leary, Nick,
+		TE
+ 	},
+	{
+ 		19,
+		Powell, Walt,
+		WR
+ 	},
+	{
+ 		59,
+		Ragland, Reggie,
+		ILB
+ 	},
+	{
+ 		DB,
+		Robey-Coleman, Nickell,
+		DB
+ 	},
+	{
+ 		65,
+		Sanborn, Garrison,
+		LS
+ 	},
+	{
+ 		6,
+		Schmidt, Colton,
+		P
+ 	},
+	{
+ 		29,
+		Seymour, Kevon,
+		CB
+ 	},
+	{
+ 		51,
+		Spikes, Brandon,
+		LB
+ 	},
+	{
+ 		15,
+		Tate, Brandon,
+		WR
+ 	},
+	{
+ 		5,
+		Taylor, Tyrod,
+		QB
+ 	},
+	{
+ 		43,
+		Thomas, Phillip,
+		DB
+ 	},
+	{
+ 		92,
+		Washington, Adolphus,
+		DE
+ 	},
+	{
+ 		14,
+		Watkins, Sammy,
+		WR
+ 	},
+	{
+ 		30,
+		White, Corey,
+		CB
+ 	},
+	{
+ 		31,
+		Williams, Jonathan,
+		RB
+ 	},
+	{
+ 		23,
+		Williams, Aaron,
+		SS
+ 	},
+	{
+ 		95,
+		Williams, Kyle,
+		DE
+ 	},
+	{
+ 		70,
+		Wood, Eric,
+		C
+ 	},
+	{
+ 		10,
+		Woods, Robert,
+		WR
+ 	},
+	{
+ 		94,
+		Worthy, Jerel,
+		DT
+ 	},
+}

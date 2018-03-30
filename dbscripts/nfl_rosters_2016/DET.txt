@@ -1,0 +1,312 @@
+{
+	{
+ 		21,
+		Abdullah, Ameer,
+		RB
+ 	},
+	{
+ 		94,
+		Ansah, Ezekiel,
+		DE
+ 	},
+	{
+ 		50,
+		Armbrister, Thurston,
+		OLB
+ 	},
+	{
+ 		29,
+		Bademosi, Johnson,
+		CB
+ 	},
+	{
+ 		39,
+		Banks, Johnthan,
+		CB
+ 	},
+	{
+ 		38,
+		Barnes, Adairius,
+		CB
+ 	},
+	{
+ 		80,
+		Boldin, Anquan,
+		WR
+ 	},
+	{
+ 		47,
+		Bostic, Jon,
+		LB
+ 	},
+	{
+ 		97,
+		Bryant, Armonty,
+		OLB
+ 	},
+	{
+ 		46,
+		Burton, Michael,
+		FB
+ 	},
+	{
+ 		31,
+		Bush, Rafael,
+		SS
+ 	},
+	{
+ 		57,
+		Bynes, Josh,
+		OLB
+ 	},
+	{
+ 		26,
+		Carey, Don,
+		SS
+ 	},
+	{
+ 		96,
+		Charles, Stefan,
+		DT
+ 	},
+	{
+ 		51,
+		Copeland, Brandon,
+		OLB
+ 	},
+	{
+ 		66,
+		Dahl, Joe,
+		OG
+ 	},
+	{
+ 		68,
+		Decker, Taylor,
+		OT
+ 	},
+	{
+ 		28,
+		Diggs, Quandre,
+		CB
+ 	},
+	{
+ 		85,
+		Ebron, Eric,
+		TE
+ 	},
+	{
+ 		30,
+		Forsett, Justin,
+		RB
+ 	},
+	{
+ 		10,
+		Fuller, Corey,
+		WR
+ 	},
+	{
+ 		60,
+		Glasgow, Graham,
+		OG
+ 	},
+	{
+ 		84,
+		Harbor, Clay,
+		TE
+ 	},
+	{
+ 		61,
+		Hyder, Kerry,
+		DE
+ 	},
+	{
+ 		11,
+		Jones, Marvin,
+		WR
+ 	},
+	{
+ 		35,
+		Killebrew, Miles,
+		SS
+ 	},
+	{
+ 		42,
+		Landes, Jimmy,
+		LS
+ 	},
+	{
+ 		24,
+		Lawson, Nevin,
+		CB
+ 	},
+	{
+ 		54,
+		Levy, DeAndre,
+		OLB
+ 	},
+	{
+ 		77,
+		Lucas, Cornelius,
+		T
+ 	},
+	{
+ 		6,
+		Martin, Sam,
+		P
+ 	},
+	{
+ 		48,
+		Muhlbach, Don,
+		LS
+ 	},
+	{
+ 		82,
+		Mulligan, Matthew,
+		TE
+ 	},
+	{
+ 		92,
+		Ngata, Haloti,
+		DT
+ 	},
+	{
+ 		8,
+		Orlovsky, Dan,
+		QB
+ 	},
+	{
+ 		87,
+		Pettigrew, Brandon,
+		TE
+ 	},
+	{
+ 		5,
+		Prater, Matt,
+		K
+ 	},
+	{
+ 		27,
+		Quin, Glover,
+		FS
+ 	},
+	{
+ 		71,
+		Reiff, Riley,
+		T
+ 	},
+	{
+ 		25,
+		Riddick, Theo,
+		RB
+ 	},
+	{
+ 		12,
+		Roberts, Andre,
+		WR
+ 	},
+	{
+ 		91,
+		Robinson, A'Shawn,
+		DT
+ 	},
+	{
+ 		70,
+		Robinson, Corey,
+		OT
+ 	},
+	{
+ 		23,
+		Slay, Darius,
+		CB
+ 	},
+	{
+ 		18,
+		Spadola, Ryan,
+		WR
+ 	},
+	{
+ 		9,
+		Stafford, Matthew,
+		QB
+ 	},
+	{
+ 		64,
+		Swanson, Travis,
+		C
+ 	},
+	{
+ 		15,
+		Tate, Golden,
+		WR
+ 	},
+	{
+ 		98,
+		Taylor, Devin,
+		DE
+ 	},
+	{
+ 		99,
+		Thornton, Khyri,
+		DT
+ 	},
+	{
+ 		72,
+		Tomlinson, Laken,
+		OG
+ 	},
+	{
+ 		93,
+		Walker, Tyrunn,
+		DT
+ 	},
+	{
+ 		75,
+		Warford, Larry,
+		G
+ 	},
+	{
+ 		36,
+		Washington, Dwayne,
+		RB
+ 	},
+	{
+ 		40,
+		Wells, Ian,
+		CB
+ 	},
+	{
+ 		59,
+		Whitehead, Tahir,
+		MLB
+ 	},
+	{
+ 		89,
+		Wick, Cole,
+		TE
+ 	},
+	{
+ 		52,
+		Williams, Antwione,
+		OLB
+ 	},
+	{
+ 		32,
+		Wilson, Tavon,
+		SS
+ 	},
+	{
+ 		83,
+		Wright, Timothy,
+		TE
+ 	},
+	{
+ 		34,
+		Zenner, Zach,
+		FB
+ 	},
+	{
+ 		69,
+		Zettel, Anthony,
+		DT
+ 	},
+}

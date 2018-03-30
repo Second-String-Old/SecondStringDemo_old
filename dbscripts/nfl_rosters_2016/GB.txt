@@ -1,0 +1,287 @@
+{
+	{
+ 		17,
+		Adams, Davante,
+		WR
+ 	},
+	{
+ 		81,
+		Allison, Geronimo,
+		WR
+ 	},
+	{
+ 		69,
+		Bakhtiari, David,
+		T
+ 	},
+	{
+ 		67,
+		Barclay, Don,
+		T
+ 	},
+	{
+ 		29,
+		Brice, Kentrell,
+		DB
+ 	},
+	{
+ 		75,
+		Bulaga, Bryan,
+		T
+ 	},
+	{
+ 		42,
+		Burnett, Morgan,
+		SS
+ 	},
+	{
+ 		97,
+		Clark, Kenny,
+		NT
+ 	},
+	{
+ 		21,
+		Clinton-Dix, Ha Ha,
+		FS
+ 	},
+	{
+ 		18,
+		Cobb, Randall,
+		WR
+ 	},
+	{
+ 		89,
+		Cook, Jared,
+		TE
+ 	},
+	{
+ 		38,
+		Crockett, John,
+		RB
+ 	},
+	{
+ 		2,
+		Crosby, Mason,
+		K
+ 	},
+	{
+ 		76,
+		Daniels, Mike,
+		DE
+ 	},
+	{
+ 		11,
+		Davis, Trevor,
+		WR
+ 	},
+	{
+ 		20,
+		Dorleant, Makinton,
+		DB
+ 	},
+	{
+ 		91,
+		Elliott, Jay,
+		LB
+ 	},
+	{
+ 		25,
+		Evans, Marwin,
+		DB
+ 	},
+	{
+ 		51,
+		Fackrell, Kyler,
+		OLB
+ 	},
+	{
+ 		61,
+		Goode, Brett,
+		LS
+ 	},
+	{
+ 		39,
+		Goodson, Demetri,
+		CB
+ 	},
+	{
+ 		98,
+		Guion, Letroy,
+		DE
+ 	},
+	{
+ 		36,
+		Gunter, LaDarius,
+		CB
+ 	},
+	{
+ 		28,
+		Hawkins, Josh,
+		CB
+ 	},
+	{
+ 		7,
+		Hundley, Brett,
+		QB
+ 	},
+	{
+ 		33,
+		Hyde, Micah,
+		SS
+ 	},
+	{
+ 		34,
+		Jackson, Don,
+		RB
+ 	},
+	{
+ 		83,
+		Janis, Jeff,
+		WR
+ 	},
+	{
+ 		95,
+		Jones, Datone,
+		DE
+ 	},
+	{
+ 		38,
+		Kerridge, Joe,
+		RB
+ 	},
+	{
+ 		27,
+		Lacy, Eddie,
+		RB
+ 	},
+	{
+ 		70,
+		Lang, T.J.,
+		G
+ 	},
+	{
+ 		63,
+		Linsley, Corey,
+		C
+ 	},
+	{
+ 		94,
+		Lowry, Dean,
+		DE
+ 	},
+	{
+ 		50,
+		Martinez, Blake,
+		ILB
+ 	},
+	{
+ 		52,
+		Matthews, Clay,
+		OLB
+ 	},
+	{
+ 		RB,
+		Montgomery, Ty,
+		WR
+ 	},
+	{
+ 		68,
+		Murphy, Kyle,
+		OT
+ 	},
+	{
+ 		87,
+		Nelson, Jordy,
+		WR
+ 	},
+	{
+ 		64,
+		Pennel, Mike,
+		DE
+ 	},
+	{
+ 		56,
+		Peppers, Julius,
+		OLB
+ 	},
+	{
+ 		80,
+		Perillo, Justin,
+		TE
+ 	},
+	{
+ 		53,
+		Perry, Nick,
+		OLB
+ 	},
+	{
+ 		23,
+		Randall, Damarious,
+		CB
+ 	},
+	{
+ 		99,
+		Ringo, Christian,
+		DE
+ 	},
+	{
+ 		22,
+		Ripkowski, Aaron,
+		FB
+ 	},
+	{
+ 		12,
+		Rodgers, Aaron,
+		QB
+ 	},
+	{
+ 		82,
+		Rodgers, Richard,
+		TE
+ 	},
+	{
+ 		24,
+		Rollins, Quinten,
+		CB
+ 	},
+	{
+ 		47,
+		Ryan, Jake,
+		ILB
+ 	},
+	{
+ 		10,
+		Schum, Jacob,
+		P
+ 	},
+	{
+ 		37,
+		Shields, Sam,
+		CB
+ 	},
+	{
+ 		78,
+		Spriggs, Jason,
+		OT
+ 	},
+	{
+ 		44,
+		Starks, James,
+		RB
+ 	},
+	{
+ 		65,
+		Taylor, Lane,
+		G
+ 	},
+	{
+ 		48,
+		Thomas, Joe,
+		LB
+ 	},
+	{
+ 		73,
+		Tretter, JC,
+		C
+ 	},
+}

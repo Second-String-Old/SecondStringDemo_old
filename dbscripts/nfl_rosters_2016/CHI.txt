@@ -1,0 +1,327 @@
+{
+	{
+ 		49,
+		Acho, Sam,
+		OLB
+ 	},
+	{
+ 		76,
+		Adams, Mike,
+		T
+ 	},
+	{
+ 		38,
+		Amos, Adrian,
+		FS
+ 	},
+	{
+ 		12,
+		Barkley, Matt,
+		QB
+ 	},
+	{
+ 		57,
+		Barrow, Lamin,
+		LB
+ 	},
+	{
+ 		4,
+		Barth, Connor,
+		K
+ 	},
+	{
+ 		20,
+		Bausby, DeVante,
+		CB
+ 	},
+	{
+ 		71,
+		Becton, Nick,
+		OT
+ 	},
+	{
+ 		11,
+		Bellamy, Josh,
+		WR
+ 	},
+	{
+ 		25,
+		Boykin, Brandon,
+		DB
+ 	},
+	{
+ 		84,
+		Braunecker, Ben,
+		TE
+ 	},
+	{
+ 		85,
+		Brown, Daniel,
+		TE
+ 	},
+	{
+ 		74,
+		Bullard, Jonathan,
+		DT
+ 	},
+	{
+ 		26,
+		Bush, Deon,
+		DB
+ 	},
+	{
+ 		37,
+		Callahan, Bryce,
+		CB
+ 	},
+	{
+ 		25,
+		Carey, Ka'Deem,
+		RB
+ 	},
+	{
+ 		6,
+		Cutler, Jay,
+		QB
+ 	},
+	{
+ 		C,
+		Ferguson, Ego,
+		DE
+ 	},
+	{
+ 		94,
+		Floyd, Leonard,
+		OLB
+ 	},
+	{
+ 		50,
+		Freeman, Jerrell,
+		ILB
+ 	},
+	{
+ 		23,
+		Fuller, Kyle,
+		CB
+ 	},
+	{
+ 		91,
+		Goldman, Eddie,
+		NT
+ 	},
+	{
+ 		55,
+		Grasu, Hroniss,
+		C
+ 	},
+	{
+ 		32,
+		Hall, Deiondre',
+		CB
+ 	},
+	{
+ 		96,
+		Hicks, Akiem,
+		DE
+ 	},
+	{
+ 		99,
+		Houston, Lamarr,
+		OLB
+ 	},
+	{
+ 		36,
+		Houston-Carson, DeAndre,
+		FS
+ 	},
+	{
+ 		24,
+		Howard, Jordan,
+		RB
+ 	},
+	{
+ 		2,
+		Hoyer, Brian,
+		QB
+ 	},
+	{
+ 		30,
+		Hurst, Demontre,
+		CB
+ 	},
+	{
+ 		17,
+		Jeffery, Alshon,
+		WR
+ 	},
+	{
+ 		52,
+		Jones, Christian,
+		OLB
+ 	},
+	{
+ 		29,
+		Jones-Quartey, Harold,
+		SS
+ 	},
+	{
+ 		64,
+		Kush, Eric,
+		OG
+ 	},
+	{
+ 		44,
+		Kwiatkoski, Nick,
+		ILB
+ 	},
+	{
+ 		33,
+		Langford, Jeremy,
+		RB
+ 	},
+	{
+ 		62,
+		Larsen, Ted,
+		OG
+ 	},
+	{
+ 		47,
+		Lasike, Paul,
+		FB
+ 	},
+	{
+ 		22,
+		LeBlanc, Cre'von,
+		CB
+ 	},
+	{
+ 		72,
+		Leno, Charles, Jr.,
+		T
+ 	},
+	{
+ 		75,
+		Long, Kyle,
+		OG
+ 	},
+	{
+ 		45,
+		Mason, Danny,
+		LB
+ 	},
+	{
+ 		70,
+		Massie, Bobby,
+		T
+ 	},
+	{
+ 		27,
+		McManis, Sherrick,
+		CB
+ 	},
+	{
+ 		92,
+		McPhee, Pernell,
+		OLB
+ 	},
+	{
+ 		81,
+		Meredith, Cameron,
+		WR
+ 	},
+	{
+ 		86,
+		Miller, Zach,
+		TE
+ 	},
+	{
+ 		16,
+		O'Donnell, Pat,
+		P
+ 	},
+	{
+ 		82,
+		Paulsen, Logan,
+		TE
+ 	},
+	{
+ 		21,
+		Porter, Tracy,
+		CB
+ 	},
+	{
+ 		31,
+		Prosinski, Chris,
+		SS
+ 	},
+	{
+ 		19,
+		Royal, Eddie,
+		WR
+ 	},
+	{
+ 		48,
+		Scales, Patrick,
+		LS
+ 	},
+	{
+ 		8,
+		Shaw, Connor,
+		QB
+ 	},
+	{
+ 		71,
+		Sitton, Josh,
+		OG
+ 	},
+	{
+ 		93,
+		Sutton, Will,
+		NT
+ 	},
+	{
+ 		14,
+		Thompson, Deonte,
+		WR
+ 	},
+	{
+ 		53,
+		Timu, John,
+		ILB
+ 	},
+	{
+ 		59,
+		Trevathan, Danny,
+		ILB
+ 	},
+	{
+ 		98,
+		Unrein, Mitch,
+		DE
+ 	},
+	{
+ 		90,
+		Washington, Cornelius,
+		DE
+ 	},
+	{
+ 		13,
+		White, Kevin,
+		WR
+ 	},
+	{
+ 		65,
+		Whitehair, Cody,
+		C
+ 	},
+	{
+ 		10,
+		Wilson, Marquess,
+		WR
+ 	},
+	{
+ 		DE,
+		Young, Willie,
+		OLB
+ 	},
+}

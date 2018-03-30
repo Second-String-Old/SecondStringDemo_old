@@ -1,0 +1,302 @@
+{
+	{
+ 		27,
+		Acker, Kenneth,
+		CB
+ 	},
+	{
+ 		57,
+		Alexander, D.J.,
+		LB
+ 	},
+	{
+ 		97,
+		Bailey, Allen,
+		DE
+ 	},
+	{
+ 		29,
+		Berry, Eric,
+		SS
+ 	},
+	{
+ 		9,
+		Bray, Tyler,
+		QB
+ 	},
+	{
+ 		25,
+		Charles, Jamaal,
+		RB
+ 	},
+	{
+ 		2,
+		Colquitt, Dustin,
+		P
+ 	},
+	{
+ 		17,
+		Conley, Chris,
+		WR
+ 	},
+	{
+ 		6,
+		Cook, Kenny,
+		WR
+ 	},
+	{
+ 		34,
+		Davis, Knile,
+		RB
+ 	},
+	{
+ 		76,
+		Duvernay-Tardif, Laurent,
+		OG
+ 	},
+	{
+ 		79,
+		Ehinger, Parker,
+		OG
+ 	},
+	{
+ 		72,
+		Fisher, Eric,
+		T
+ 	},
+	{
+ 		4,
+		Foles, Nick,
+		QB
+ 	},
+	{
+ 		55,
+		Ford, Dee,
+		OLB
+ 	},
+	{
+ 		73,
+		Fulton, Zach,
+		G
+ 	},
+	{
+ 		23,
+		Gaines, Phillip,
+		CB
+ 	},
+	{
+ 		91,
+		Hali, Tamba,
+		OLB
+ 	},
+	{
+ 		84,
+		Harris, Demetrius,
+		TE
+ 	},
+	{
+ 		48,
+		Harris, Vernon,
+		DB
+ 	},
+	{
+ 		10,
+		Hill, Tyreek,
+		WR
+ 	},
+	{
+ 		50,
+		Houston, Justin,
+		OLB
+ 	},
+	{
+ 		96,
+		Howard, Jaye,
+		DE
+ 	},
+	{
+ 		DT,
+		Johnson, Derrick,
+		ILB
+ 	},
+	{
+ 		95,
+		Jones, Chris,
+		DE
+ 	},
+	{
+ 		87,
+		Kelce, Travis,
+		TE
+ 	},
+	{
+ 		19,
+		Maclin, Jeremy,
+		WR
+ 	},
+	{
+ 		59,
+		March-Lillard, Justin,
+		ILB
+ 	},
+	{
+ 		90,
+		Mauga, Josh,
+		ILB
+ 	},
+	{
+ 		40,
+		Millard, Trey,
+		FB
+ 	},
+	{
+ 		61,
+		Morse, Mitch,
+		C
+ 	},
+	{
+ 		21,
+		Murray, Eric,
+		CB
+ 	},
+	{
+ 		20,
+		Nelson, Steven,
+		CB
+ 	},
+	{
+ 		52,
+		Nicolas, Dadi,
+		LB
+ 	},
+	{
+ 		99,
+		Nunez-Roches, Rakeem,
+		DT
+ 	},
+	{
+ 		80,
+		O'Shaughnessy, James,
+		TE
+ 	},
+	{
+ 		38,
+		Parker, Ron,
+		FS
+ 	},
+	{
+ 		68,
+		Person, Mike,
+		OG
+ 	},
+	{
+ 		22,
+		Peters, Marcus,
+		CB
+ 	},
+	{
+ 		92,
+		Poe, Dontari,
+		NT
+ 	},
+	{
+ 		75,
+		Reid, Jah,
+		OG
+ 	},
+	{
+ 		98,
+		Reyes, Kendall,
+		DT
+ 	},
+	{
+ 		14,
+		Robinson, Demarcus,
+		WR
+ 	},
+	{
+ 		30,
+		Sankey, Bishop,
+		RB
+ 	},
+	{
+ 		5,
+		Santos, Cairo,
+		K
+ 	},
+	{
+ 		71,
+		Schwartz, Mitchell,
+		OT
+ 	},
+	{
+ 		42,
+		Sherman, Anthony,
+		FB
+ 	},
+	{
+ 		62,
+		Smith, Terrance,
+		ILB
+ 	},
+	{
+ 		11,
+		Smith, Alex,
+		QB
+ 	},
+	{
+ 		49,
+		Sorensen, Daniel,
+		DB
+ 	},
+	{
+ 		13,
+		Thomas, De'Anthony,
+		WR
+ 	},
+	{
+ 		88,
+		Travis, Ross,
+		TE
+ 	},
+	{
+ 		32,
+		Ware, Spencer,
+		RB
+ 	},
+	{
+ 		35,
+		West, Charcandrick,
+		RB
+ 	},
+	{
+ 		24,
+		White, D.J.,
+		CB
+ 	},
+	{
+ 		12,
+		Wilson, Albert,
+		WR
+ 	},
+	{
+ 		53,
+		Wilson, Ramik,
+		ILB
+ 	},
+	{
+ 		41,
+		Winchester, James,
+		LS
+ 	},
+	{
+ 		70,
+		Witzmann, Bryan,
+		OT
+ 	},
+	{
+ 		51,
+		Zombo, Frank,
+		OLB
+ 	},
+}

@@ -1,0 +1,287 @@
+{
+	{
+ 		88,
+		Amaro, Jace,
+		TE
+ 	},
+	{
+ 		26,
+		Andrews, Antonio,
+		RB
+ 	},
+	{
+ 		51,
+		Bass, David,
+		OLB
+ 	},
+	{
+ 		76,
+		Bell, Byron,
+		OT
+ 	},
+	{
+ 		95,
+		Blackson, Angelo,
+		DE
+ 	},
+	{
+ 		47,
+		Blake, Valentino,
+		DB
+ 	},
+	{
+ 		48,
+		Brinkley, Beau,
+		LS
+ 	},
+	{
+ 		31,
+		Byard, Kevin,
+		SAF
+ 	},
+	{
+ 		99,
+		Casey, Jurrell,
+		DE
+ 	},
+	{
+ 		16,
+		Cassel, Matt,
+		QB
+ 	},
+	{
+ 		78,
+		Conklin, Jack,
+		OT
+ 	},
+	{
+ 		20,
+		Cox, Perrish,
+		CB
+ 	},
+	{
+ 		93,
+		Dodd, Kevin,
+		OLB
+ 	},
+	{
+ 		83,
+		Douglas, Harry,
+		WR
+ 	},
+	{
+ 		80,
+		Fasano, Anthony,
+		TE
+ 	},
+	{
+ 		32,
+		Fluellen, David,
+		RB
+ 	},
+	{
+ 		45,
+		Fowler, Jalston,
+		FB
+ 	},
+	{
+ 		22,
+		Henry, Derrick,
+		RB
+ 	},
+	{
+ 		25,
+		Johnson, Rashad,
+		FS
+ 	},
+	{
+ 		94,
+		Johnson, Austin,
+		NT
+ 	},
+	{
+ 		60,
+		Jones, Ben,
+		C
+ 	},
+	{
+ 		90,
+		Jones, DaQuan,
+		DE
+ 	},
+	{
+ 		71,
+		Kelly, Dennis,
+		OT
+ 	},
+	{
+ 		6,
+		Kern, Brett,
+		P
+ 	},
+	{
+ 		64,
+		Kline, Josh,
+		OG
+ 	},
+	{
+ 		97,
+		Klug, Karl,
+		DE
+ 	},
+	{
+ 		77,
+		Lewan, Taylor,
+		T
+ 	},
+	{
+ 		87,
+		Mariani, Marc,
+		WR
+ 	},
+	{
+ 		8,
+		Mariota, Marcus,
+		QB
+ 	},
+	{
+ 		66,
+		Matias, Josue,
+		OG
+ 	},
+	{
+ 		18,
+		Matthews, Rishard,
+		WR
+ 	},
+	{
+ 		10,
+		McBride, Tre,
+		WR
+ 	},
+	{
+ 		23,
+		McCain, Brice,
+		CB
+ 	},
+	{
+ 		30,
+		McCourty, Jason,
+		CB
+ 	},
+	{
+ 		91,
+		Morgan, Derrick,
+		OLB
+ 	},
+	{
+ 		29,
+		Murray, DeMarco,
+		RB
+ 	},
+	{
+ 		23,
+		Okotcha, Bennett,
+		DB
+ 	},
+	{
+ 		98,
+		Orakpo, Brian,
+		OLB
+ 	},
+	{
+ 		50,
+		Palmer, Nate,
+		LB
+ 	},
+	{
+ 		35,
+		Riley, Curtis,
+		CB
+ 	},
+	{
+ 		62,
+		Schwenke, Brian,
+		OG
+ 	},
+	{
+ 		21,
+		Searcy, Da'Norris,
+		SS
+ 	},
+	{
+ 		19,
+		Sharpe, Tajae,
+		WR
+ 	},
+	{
+ 		36,
+		Sims, LeShaun,
+		CB
+ 	},
+	{
+ 		67,
+		Spain, Quinton,
+		OG
+ 	},
+	{
+ 		55,
+		Spence, Sean,
+		ILB
+ 	},
+	{
+ 		24,
+		Stafford, Daimion,
+		SS
+ 	},
+	{
+ 		4,
+		Succop, Ryan,
+		K
+ 	},
+	{
+ 		89,
+		Supernaw, Phillip,
+		TE
+ 	},
+	{
+ 		79,
+		Tretola, Sebastian,
+		OG
+ 	},
+	{
+ 		82,
+		Walker, Delanie,
+		TE
+ 	},
+	{
+ 		52,
+		Wallace, Aaron,
+		OLB
+ 	},
+	{
+ 		70,
+		Warmack, Chance,
+		G
+ 	},
+	{
+ 		54,
+		Williamson, Avery,
+		ILB
+ 	},
+	{
+ 		96,
+		Woods, Al,
+		NT
+ 	},
+	{
+ 		59,
+		Woodyard, Wesley,
+		ILB
+ 	},
+	{
+ 		13,
+		Wright, Kendall,
+		WR
+ 	},
+}

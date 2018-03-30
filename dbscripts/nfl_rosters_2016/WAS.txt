@@ -1,0 +1,332 @@
+{
+	{
+ 		92,
+		Baker, Chris,
+		DE
+ 	},
+	{
+ 		96,
+		Bates, Houston,
+		LB
+ 	},
+	{
+ 		41,
+		Blackmon, Will,
+		FS
+ 	},
+	{
+ 		72,
+		Bowen, Kevin,
+		OT
+ 	},
+	{
+ 		26,
+		Breeland, Bashaud,
+		CB
+ 	},
+	{
+ 		34,
+		Brown, Mack,
+		RB
+ 	},
+	{
+ 		30,
+		Bruton, David,
+		SS
+ 	},
+	{
+ 		89,
+		Carrier, Derek,
+		TE
+ 	},
+	{
+ 		68,
+		Clausell, Blaine,
+		T
+ 	},
+	{
+ 		51,
+		Compton, Will,
+		ILB
+ 	},
+	{
+ 		8,
+		Cousins, Kirk,
+		QB
+ 	},
+	{
+ 		36,
+		Cravens, Su'a,
+		ILB
+ 	},
+	{
+ 		80,
+		Crowder, Jamison,
+		WR
+ 	},
+	{
+ 		53,
+		Daniels, Steven,
+		ILB
+ 	},
+	{
+ 		85,
+		Davis, Vernon,
+		TE
+ 	},
+	{
+ 		17,
+		Diggs, Reggie,
+		WR
+ 	},
+	{
+ 		18,
+		Doctson, Josh,
+		WR
+ 	},
+	{
+ 		47,
+		Dunbar, Quinton,
+		CB
+ 	},
+	{
+ 		22,
+		Everett, Deshazor,
+		CB
+ 	},
+	{
+ 		54,
+		Foster, Mason,
+		ILB
+ 	},
+	{
+ 		38,
+		Fuller, Kendall,
+		CB
+ 	},
+	{
+ 		88,
+		Garcon, Pierre,
+		WR
+ 	},
+	{
+ 		52,
+		Garvin, Terence,
+		LB
+ 	},
+	{
+ 		64,
+		Golston, Kedric,
+		DE
+ 	},
+	{
+ 		14,
+		Grant, Ryan,
+		WR
+ 	},
+	{
+ 		23,
+		Hall, DeAngelo,
+		FS
+ 	},
+	{
+ 		13,
+		Harris, Maurice,
+		WR
+ 	},
+	{
+ 		67,
+		Hill, Jordan,
+		DT
+ 	},
+	{
+ 		90,
+		Hood, Ziggy,
+		NT
+ 	},
+	{
+ 		3,
+		Hopkins, Dustin,
+		K
+ 	},
+	{
+ 		29,
+		Ihenacho, Duke,
+		SS
+ 	},
+	{
+ 		98,
+		Ioannidis, Matthew,
+		DT
+ 	},
+	{
+ 		11,
+		Jackson, DeSean,
+		WR
+ 	},
+	{
+ 		36,
+		Jackson, Tanard,
+		DB
+ 	},
+	{
+ 		99,
+		Jean Francois, Ricky,
+		DE
+ 	},
+	{
+ 		73,
+		Jenkins, Cullen,
+		DT
+ 	},
+	{
+ 		31,
+		Jones, Matt,
+		RB
+ 	},
+	{
+ 		32,
+		Kelley, Rob,
+		RB
+ 	},
+	{
+ 		91,
+		Kerrigan, Ryan,
+		OLB
+ 	},
+	{
+ 		74,
+		Kouandjio, Arie,
+		OG
+ 	},
+	{
+ 		72,
+		Lanier, Anthony,
+		DE
+ 	},
+	{
+ 		77,
+		Lauvao, Shawn,
+		G
+ 	},
+	{
+ 		78,
+		Lichtensteiger, Kory,
+		C
+ 	},
+	{
+ 		61,
+		Long, Spencer,
+		C
+ 	},
+	{
+ 		39,
+		Marshall, Keith,
+		RB
+ 	},
+	{
+ 		16,
+		McCoy, Colt,
+		QB
+ 	},
+	{
+ 		76,
+		Moses, Morgan,
+		T
+ 	},
+	{
+ 		93,
+		Murphy, Trent,
+		DE
+ 	},
+	{
+ 		24,
+		Norman, Josh,
+		CB
+ 	},
+	{
+ 		79,
+		Nsekhe, Ty,
+		T
+ 	},
+	{
+ 		60,
+		Painter, Vinston,
+		OT
+ 	},
+	{
+ 		84,
+		Paul, Niles,
+		TE
+ 	},
+	{
+ 		32,
+		Redd, Silas,
+		RB
+ 	},
+	{
+ 		86,
+		Reed, Jordan,
+		TE
+ 	},
+	{
+ 		19,
+		Ross, Rashad,
+		WR
+ 	},
+	{
+ 		75,
+		Scherff, Brandon,
+		OG
+ 	},
+	{
+ 		94,
+		Smith, Preston,
+		OLB
+ 	},
+	{
+ 		50,
+		Spaight, Martrell,
+		OLB
+ 	},
+	{
+ 		2,
+		Sudfeld, Nate,
+		QB
+ 	},
+	{
+ 		56,
+		Sullivan, John,
+		C
+ 	},
+	{
+ 		57,
+		Sundberg, Nick,
+		LS
+ 	},
+	{
+ 		25,
+		Thompson, Chris,
+		RB
+ 	},
+	{
+ 		20,
+		Toler, Greg,
+		DB
+ 	},
+	{
+ 		5,
+		Way, Tress,
+		P
+ 	},
+	{
+ 		39,
+		Whitner, Donte,
+		SS
+ 	},
+	{
+ 		71,
+		Williams, Trent,
+		T
+ 	},
+}

@@ -1,0 +1,292 @@
+{
+	{
+ 		31,
+		Alexander, Maurice,
+		FS
+ 	},
+	{
+ 		11,
+		Austin, Tavon,
+		WR
+ 	},
+	{
+ 		61,
+		Barnes, Tim,
+		C
+ 	},
+	{
+ 		26,
+		Barron, Mark,
+		OLB
+ 	},
+	{
+ 		18,
+		Britt, Kenny,
+		WR
+ 	},
+	{
+ 		90,
+		Brockers, Michael,
+		DT
+ 	},
+	{
+ 		68,
+		Brown, Jamon,
+		OG
+ 	},
+	{
+ 		39,
+		Brown, Malcolm,
+		RB
+ 	},
+	{
+ 		41,
+		Christian, Marqui,
+		DB
+ 	},
+	{
+ 		10,
+		Cooper, Pharoh,
+		WR
+ 	},
+	{
+ 		23,
+		Cunningham, Benny,
+		RB
+ 	},
+	{
+ 		38,
+		Davis, Cody,
+		DB
+ 	},
+	{
+ 		99,
+		Donald, Aaron,
+		DT
+ 	},
+	{
+ 		64,
+		Donnal, Andrew,
+		OT
+ 	},
+	{
+ 		91,
+		Easley, Dominique,
+		DT
+ 	},
+	{
+ 		59,
+		Forrest, Josh,
+		OLB
+ 	},
+	{
+ 		33,
+		Gaines, E.J.,
+		CB
+ 	},
+	{
+ 		16,
+		Goff, Jared,
+		QB
+ 	},
+	{
+ 		21,
+		Gratz, Dwayne,
+		CB
+ 	},
+	{
+ 		30,
+		Gurley, Todd,
+		RB
+ 	},
+	{
+ 		54,
+		Hager, Bryce,
+		ILB
+ 	},
+	{
+ 		46,
+		Harkey, Cory,
+		TE
+ 	},
+	{
+ 		79,
+		Havenstein, Rob,
+		OT
+ 	},
+	{
+ 		95,
+		Hayes, William,
+		DE
+ 	},
+	{
+ 		6,
+		Hekker, Johnny,
+		P
+ 	},
+	{
+ 		84,
+		Hemingway, Temarrick,
+		TE
+ 	},
+	{
+ 		89,
+		Higbee, Tyler,
+		TE
+ 	},
+	{
+ 		32,
+		Hill, Troy,
+		CB
+ 	},
+	{
+ 		22,
+		Johnson, Trumaine,
+		CB
+ 	},
+	{
+ 		20,
+		Joyner, Lamarcus,
+		CB
+ 	},
+	{
+ 		17,
+		Keenum, Case,
+		QB
+ 	},
+	{
+ 		88,
+		Kendricks, Lance,
+		TE
+ 	},
+	{
+ 		45,
+		Laskey, Zach,
+		FB
+ 	},
+	{
+ 		58,
+		Littleton, Cory,
+		OLB
+ 	},
+	{
+ 		96,
+		Longacre, Matt,
+		DE
+ 	},
+	{
+ 		14,
+		Mannion, Sean,
+		QB
+ 	},
+	{
+ 		15,
+		Marquez, Bradley,
+		WR
+ 	},
+	{
+ 		25,
+		McDonald, T.J.,
+		SS
+ 	},
+	{
+ 		44,
+		McQuaide, Jake,
+		LS
+ 	},
+	{
+ 		72,
+		Murphy, Pace,
+		OT
+ 	},
+	{
+ 		3,
+		North, Marquez,
+		WR
+ 	},
+	{
+ 		52,
+		Ogletree, Alec,
+		MLB
+ 	},
+	{
+ 		83,
+		Quick, Brian,
+		WR
+ 	},
+	{
+ 		94,
+		Quinn, Robert,
+		DE
+ 	},
+	{
+ 		43,
+		Randolph, Brian,
+		DB
+ 	},
+	{
+ 		34,
+		Reynolds, Chase,
+		RB
+ 	},
+	{
+ 		65,
+		Rhaney, Demetrius,
+		OG
+ 	},
+	{
+ 		73,
+		Robinson, Greg,
+		T
+ 	},
+	{
+ 		76,
+		Saffold, Rodger,
+		G
+ 	},
+	{
+ 		97,
+		Sims, Eugene,
+		DE
+ 	},
+	{
+ 		86,
+		Spruce, Nelson,
+		WR
+ 	},
+	{
+ 		13,
+		Thomas, Mike,
+		WR
+ 	},
+	{
+ 		92,
+		Thomas, Cam,
+		DT
+ 	},
+	{
+ 		62,
+		Trinca-Pasat, Louis,
+		DT
+ 	},
+	{
+ 		93,
+		Westbrooks, Ethan,
+		DE
+ 	},
+	{
+ 		69,
+		Wichmann, Cody,
+		OG
+ 	},
+	{
+ 		63,
+		Williams, Darrell,
+		T
+ 	},
+	{
+ 		4,
+		Zuerlein, Greg,
+		K
+ 	},
+}

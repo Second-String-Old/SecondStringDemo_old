@@ -1,0 +1,287 @@
+{
+	{
+ 		29,
+		Adams, Mike,
+		SS
+ 	},
+	{
+ 		83,
+		Allen, Dwayne,
+		TE
+ 	},
+	{
+ 		96,
+		Anderson, Henry,
+		DE
+ 	},
+	{
+ 		56,
+		Ayers, Akeem,
+		LB
+ 	},
+	{
+ 		63,
+		Blythe, Austin,
+		OG
+ 	},
+	{
+ 		11,
+		Bray, Quan,
+		WR
+ 	},
+	{
+ 		20,
+		Butler, Darius,
+		CB
+ 	},
+	{
+ 		OT,
+		Carter, Chris,
+		LB
+ 	},
+	{
+ 		74,
+		Castonzo, Anthony,
+		T
+ 	},
+	{
+ 		62,
+		Clark, Le'Raven,
+		OT
+ 	},
+	{
+ 		58,
+		Cole, Trent,
+		OLB
+ 	},
+	{
+ 		21,
+		Davis, Vontae,
+		CB
+ 	},
+	{
+ 		15,
+		Dorsett, Phillip,
+		WR
+ 	},
+	{
+ 		84,
+		Doyle, Jack,
+		TE
+ 	},
+	{
+ 		95,
+		Edwards, Lavar,
+		DE
+ 	},
+	{
+ 		41,
+		Farley, Matthias,
+		DB
+ 	},
+	{
+ 		34,
+		Ferguson, Josh,
+		RB
+ 	},
+	{
+ 		26,
+		Geathers, Clayton,
+		FS
+ 	},
+	{
+ 		71,
+		Good, Denzelle,
+		OG
+ 	},
+	{
+ 		23,
+		Gore, Frank,
+		RB
+ 	},
+	{
+ 		32,
+		Green, T.J.,
+		FS
+ 	},
+	{
+ 		73,
+		Haeg, Joe,
+		OT
+ 	},
+	{
+ 		72,
+		Harrison, Jonotthan,
+		C
+ 	},
+	{
+ 		13,
+		Hilton, T.Y.,
+		WR
+ 	},
+	{
+ 		52,
+		Jackson, D'Qwell,
+		ILB
+ 	},
+	{
+ 		53,
+		Jackson, Edwin,
+		ILB
+ 	},
+	{
+ 		97,
+		Jones, Arthur,
+		DE
+ 	},
+	{
+ 		78,
+		Kelly, Ryan,
+		C
+ 	},
+	{
+ 		94,
+		Kerr, Zach,
+		DE
+ 	},
+	{
+ 		LB,
+		Langford, Kendall,
+		DE
+ 	},
+	{
+ 		12,
+		Luck, Andrew,
+		QB
+ 	},
+	{
+ 		92,
+		Maggitt, Curt,
+		OLB
+ 	},
+	{
+ 		98,
+		Mathis, Robert,
+		OLB
+ 	},
+	{
+ 		1,
+		McAfee, Pat,
+		P
+ 	},
+	{
+ 		89,
+		McFarland, Mike,
+		TE
+ 	},
+	{
+ 		99,
+		McGill, T.Y.,
+		DT
+ 	},
+	{
+ 		57,
+		McNary, Josh,
+		ILB
+ 	},
+	{
+ 		30,
+		Melvin, Rashaan,
+		CB
+ 	},
+	{
+ 		75,
+		Mewhort, Jack,
+		OG
+ 	},
+	{
+ 		10,
+		Moncrief, Donte,
+		WR
+ 	},
+	{
+ 		44,
+		Morrison, Antonio,
+		ILB
+ 	},
+	{
+ 		45,
+		Overton, Matt,
+		LS
+ 	},
+	{
+ 		54,
+		Parry, David,
+		NT
+ 	},
+	{
+ 		76,
+		Reitz, Joe,
+		OT
+ 	},
+	{
+ 		91,
+		Ridgeway, Hassan,
+		DT
+ 	},
+	{
+ 		25,
+		Robinson, Patrick,
+		CB
+ 	},
+	{
+ 		80,
+		Rogers, Chester,
+		WR
+ 	},
+	{
+ 		81,
+		Street, Devin,
+		WR
+ 	},
+	{
+ 		86,
+		Swoope, Erik,
+		TE
+ 	},
+	{
+ 		69,
+		Thornton, Hugh,
+		G
+ 	},
+	{
+ 		28,
+		Todman, Jordan,
+		RB
+ 	},
+	{
+ 		16,
+		Tolzien, Scott,
+		QB
+ 	},
+	{
+ 		33,
+		Turbin, Robert,
+		RB
+ 	},
+	{
+ 		4,
+		Vinatieri, Adam,
+		K
+ 	},
+	{
+ 		93,
+		Walden, Erik,
+		OLB
+ 	},
+	{
+ 		37,
+		Williams, Frankie,
+		CB
+ 	},
+	{
+ 		36,
+		Williamson, Andrew,
+		DB
+ 	},
+}

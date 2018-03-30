@@ -1,0 +1,297 @@
+{
+	{
+ 		6,
+		Allen, Ryan,
+		P
+ 	},
+	{
+ 		80,
+		Amendola, Danny,
+		WR
+ 	},
+	{
+ 		60,
+		Andrews, David,
+		C
+ 	},
+	{
+ 		88,
+		Bennett, Martellus,
+		TE
+ 	},
+	{
+ 		29,
+		Blount, LeGarrette,
+		RB
+ 	},
+	{
+ 		38,
+		Bolden, Brandon,
+		RB
+ 	},
+	{
+ 		12,
+		Brady, Tom,
+		QB
+ 	},
+	{
+ 		97,
+		Branch, Alan,
+		DT
+ 	},
+	{
+ 		7,
+		Brissett, Jacoby,
+		QB
+ 	},
+	{
+ 		90,
+		Brown, Malcom,
+		DT
+ 	},
+	{
+ 		21,
+		Butler, Malcolm,
+		CB
+ 	},
+	{
+ 		61,
+		Cannon, Marcus,
+		OT
+ 	},
+	{
+ 		49,
+		Cardona, Joe,
+		LS
+ 	},
+	{
+ 		23,
+		Chung, Patrick,
+		SS
+ 	},
+	{
+ 		22,
+		Coleman, Justin,
+		CB
+ 	},
+	{
+ 		46,
+		Develin, James,
+		FB
+ 	},
+	{
+ 		43,
+		Ebner, Nate,
+		DB
+ 	},
+	{
+ 		11,
+		Edelman, Julian,
+		WR
+ 	},
+	{
+ 		71,
+		Fleming, Cameron,
+		OT
+ 	},
+	{
+ 		98,
+		Flowers, Trey,
+		DE
+ 	},
+	{
+ 		27,
+		Foster, D.J.,
+		RB
+ 	},
+	{
+ 		55,
+		Freeny, Jonathan,
+		OLB
+ 	},
+	{
+ 		10,
+		Garoppolo, Jimmy,
+		QB
+ 	},
+	{
+ 		3,
+		Gostkowski, Stephen,
+		K
+ 	},
+	{
+ 		92,
+		Grissom, Geneo,
+		OLB
+ 	},
+	{
+ 		87,
+		Gronkowski, Rob,
+		TE
+ 	},
+	{
+ 		74,
+		Hamilton, Woodrow,
+		DT
+ 	},
+	{
+ 		30,
+		Harmon, Duron,
+		FS
+ 	},
+	{
+ 		54,
+		Hightower, Dont'a,
+		MLB
+ 	},
+	{
+ 		15,
+		Hogan, Chris,
+		WR
+ 	},
+	{
+ 		63,
+		Jackson, Tre,
+		OG
+ 	},
+	{
+ 		24,
+		Jones, Cyrus,
+		CB
+ 	},
+	{
+ 		31,
+		Jones, Jonathan,
+		CB
+ 	},
+	{
+ 		75,
+		Karras, Ted,
+		OG
+ 	},
+	{
+ 		36,
+		King, Brandon,
+		DB
+ 	},
+	{
+ 		82,
+		Lengel, Matt,
+		TE
+ 	},
+	{
+ 		33,
+		Lewis, Dion,
+		RB
+ 	},
+	{
+ 		95,
+		Long, Chris,
+		DE
+ 	},
+	{
+ 		69,
+		Mason, Shaq,
+		OG
+ 	},
+	{
+ 		58,
+		McClellin, Shea,
+		LB
+ 	},
+	{
+ 		32,
+		McCourty, Devin,
+		FS
+ 	},
+	{
+ 		51,
+		Mingo, Barkevious,
+		LB
+ 	},
+	{
+ 		19,
+		Mitchell, Malcolm,
+		WR
+ 	},
+	{
+ 		50,
+		Ninkovich, Rob,
+		OLB
+ 	},
+	{
+ 		37,
+		Richards, Jordan,
+		SS
+ 	},
+	{
+ 		52,
+		Roberts, Elandon,
+		OLB
+ 	},
+	{
+ 		25,
+		Rowe, Eric,
+		CB
+ 	},
+	{
+ 		26,
+		Ryan, Logan,
+		CB
+ 	},
+	{
+ 		83,
+		Scruggs, Greg,
+		TE
+ 	},
+	{
+ 		93,
+		Sheard, Jabaal,
+		DE
+ 	},
+	{
+ 		18,
+		Slater, Matthew,
+		WR
+ 	},
+	{
+ 		77,
+		Solder, Nate,
+		T
+ 	},
+	{
+ 		62,
+		Thuney, Joe,
+		OG
+ 	},
+	{
+ 		99,
+		Valentine, Vincent,
+		DT
+ 	},
+	{
+ 		53,
+		Van Noy, Kyle,
+		OLB
+ 	},
+	{
+ 		76,
+		Vollmer, Sebastian,
+		T
+ 	},
+	{
+ 		68,
+		Waddle, LaAdrian,
+		T
+ 	},
+	{
+ 		28,
+		White, James,
+		RB
+ 	},
+	{
+ 		85,
+		Williams, Michael,
+		TE
+ 	},
+}
